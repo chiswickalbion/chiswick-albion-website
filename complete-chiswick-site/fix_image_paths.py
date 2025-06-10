@@ -1,122 +1,83 @@
 #!/usr/bin/env python3
+import os
 import re
-from pathlib import Path
-import requests
-import time
+import shutil
 
-def analyze_and_fix_image_issues():
-    pages_dir = Path("pages")
-    assets_dir = Path("assets")
+def fix_image_paths(directory):
+    # Create assets/images directory if it doesn't exist
+    assets_dir = os.path.join(directory, 'assets', 'images')
+    os.makedirs(assets_dir, exist_ok=True)
     
-    print("🔍 ANALYZING IMAGE PATH ISSUES...")
-    
-    # Track issues
-    broken_image_files = []
-    fixed_files = []
-    
-    # Get all image files available
-    available_images = {}
-    for img_path in assets_dir.rglob("*"):
-        if img_path.is_file() and img_path.suffix.lower() in ['.gif', '.jpg', '.jpeg', '.png']:
-            available_images[img_path.name] = str(img_path)
-    
-    # Also check pages directory for images
-    for img_path in pages_dir.rglob("*"):
-        if img_path.is_file() and img_path.suffix.lower() in ['.gif', '.jpg', '.jpeg', '.png']:
-            available_images[img_path.name] = str(img_path)
-    
-    print(f"📁 Found {len(available_images)} image files available")
-    
-    # Check each HTML file for image path issues
-    for html_file in pages_dir.glob("*.html"):
-        try:
-            content = html_file.read_text(encoding='utf-8', errors='ignore')
-            
-            # Skip 404 pages
-            if "404: Page not found" in content:
-                continue
+    # Walk through all HTML files
+    for root, _, files in os.walk(directory):
+        for file in files:
+            if file.endswith('.html'):
+                file_path = os.path.join(root, file)
+                with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+                    content = f.read()
                 
-            # Find all image references
-            img_refs = re.findall(r'src="([^"]*\.(gif|jpg|jpeg|png))"', content, re.IGNORECASE)
-            
-            has_issues = False
-            new_content = content
-            
-            for img_ref, ext in img_refs:
-                img_filename = Path(img_ref).name
+                # Find all image references
+                img_refs = re.findall(r'src="([^"]*\.(gif|jpg|jpeg|png))"', content, re.IGNORECASE)
+                modified = False
                 
-                # Check if image exists at the referenced path
-                referenced_path = pages_dir / img_ref
-                
-                if not referenced_path.exists():
-                    # Try to find the image in our available images
-                    if img_filename in available_images:
-                        # Calculate relative path from pages directory to the image
-                        actual_img_path = Path(available_images[img_filename])
-                        relative_path = str(actual_img_path.relative_to(pages_dir.parent))
+                for img_ref, ext in img_refs:
+                    # Handle relative paths
+                    if not img_ref.startswith(('http://', 'https://')):
+                        # Extract filename
+                        filename = os.path.basename(img_ref)
+                        new_path = f'../assets/images/{filename}'
                         
-                        print(f"🔧 {html_file.name}: Fixing {img_ref} → {relative_path}")
-                        new_content = new_content.replace(f'src="{img_ref}"', f'src="../{relative_path}"')
-                        has_issues = True
-                    else:
-                        print(f"❌ {html_file.name}: Missing image {img_ref}")
-                        has_issues = True
-            
-            # Save fixed content
-            if has_issues:
-                if new_content != content:
-                    html_file.write_text(new_content, encoding='utf-8')
-                    fixed_files.append(html_file.name)
-                else:
-                    broken_image_files.append(html_file.name)
-                    
-        except Exception as e:
-            print(f"❌ Error processing {html_file}: {e}")
-    
-    print(f"\n📊 SUMMARY:")
-    print(f"✅ Files with fixed image paths: {len(fixed_files)}")
-    print(f"❌ Files with missing images: {len(broken_image_files)}")
-    
-    if fixed_files:
-        print(f"\n🔧 FIXED FILES:")
-        for file in fixed_files:
-            print(f"   - {file}")
-    
-    if broken_image_files:
-        print(f"\n❌ FILES WITH MISSING IMAGES:")
-        for file in broken_image_files:
-            print(f"   - {file}")
-    
-    return fixed_files, broken_image_files
+                        # Copy image to assets directory if it exists and is not already there
+                        old_path = os.path.join(os.path.dirname(file_path), img_ref)
+                        dest_path = os.path.join(assets_dir, filename)
+                        if os.path.exists(old_path) and os.path.abspath(old_path) != os.path.abspath(dest_path):
+                            shutil.copy2(old_path, dest_path)
+                        if img_ref != new_path:
+                            content = content.replace(f'src="{img_ref}"', f'src="{new_path}"')
+                            modified = True
+                
+                # Save changes if modified
+                if modified:
+                    with open(file_path, 'w', encoding='utf-8') as f:
+                        f.write(content)
+                    print(f"Updated image paths in {file_path}")
 
-def download_missing_images():
-    """Download missing images from original site"""
-    missing_images = ['img1.gif']  # We know img1.gif is missing for videos.html
-    base_url = "https://0002n8y.wcomhost.com/website/videos/"
-    pages_dir = Path("pages")
+def verify_images(directory):
+    broken_images = []
+    for root, _, files in os.walk(directory):
+        for file in files:
+            if file.endswith('.html'):
+                file_path = os.path.join(root, file)
+                with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+                    content = f.read()
+                
+                # Find all image references
+                img_refs = re.findall(r'src="([^"]*\.(gif|jpg|jpeg|png))"', content, re.IGNORECASE)
+                
+                for img_ref, _ in img_refs:
+                    if not img_ref.startswith(('http://', 'https://')):
+                        img_path = os.path.join(os.path.dirname(file_path), img_ref)
+                        if not os.path.exists(img_path):
+                            broken_images.append({
+                                'file': file_path,
+                                'image': img_ref,
+                                'path': img_path
+                            })
     
-    print("\n📥 DOWNLOADING MISSING IMAGES...")
-    
-    for img_name in missing_images:
-        try:
-            img_url = base_url + img_name
-            response = requests.get(img_url, timeout=10)
-            
-            if response.status_code == 200:
-                img_path = pages_dir / img_name
-                img_path.write_bytes(response.content)
-                print(f"✅ Downloaded {img_name}")
-            else:
-                print(f"❌ Failed to download {img_name}: HTTP {response.status_code}")
-        except Exception as e:
-            print(f"❌ Error downloading {img_name}: {e}")
+    return broken_images
 
 if __name__ == "__main__":
-    # First, try to download missing images
-    download_missing_images()
+    site_dir = os.path.dirname(os.path.abspath(__file__))
+    print("Fixing image paths...")
+    fix_image_paths(site_dir)
     
-    # Then fix path issues
-    fixed, broken = analyze_and_fix_image_issues()
-    
-    if fixed:
-        print(f"\n🚀 Ready to commit {len(fixed)} fixed files!") 
+    print("\nVerifying images...")
+    broken = verify_images(site_dir)
+    if broken:
+        print("\nBroken images found:")
+        for item in broken:
+            print(f"File: {item['file']}")
+            print(f"Image: {item['image']}")
+            print(f"Path: {item['path']}\n")
+    else:
+        print("All images are valid!") 

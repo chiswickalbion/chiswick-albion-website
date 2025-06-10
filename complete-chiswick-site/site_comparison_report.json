@@ -13,7 +13,7 @@
       "old_url": "https://0002n8y.wcomhost.com/website/FAC201617_index/",
       "new_accessible": true,
       "old_accessible": false,
-      "new_size": 2261,
+      "new_size": 2257,
       "old_size": 0
     },
     "FAC201617_page2.html": {
@@ -21,7 +21,7 @@
       "old_url": "https://0002n8y.wcomhost.com/website/FAC201617_page2/",
       "new_accessible": true,
       "old_accessible": false,
-      "new_size": 2268,
+      "new_size": 2264,
       "old_size": 0
     },
     "FAC201617_page3.html": {
@@ -29,7 +29,7 @@
       "old_url": "https://0002n8y.wcomhost.com/website/FAC201617_page3/",
       "new_accessible": true,
       "old_accessible": false,
-      "new_size": 2267,
+      "new_size": 2263,
       "old_size": 0
     },
     "FAC201617_page4.html": {
@@ -37,7 +37,7 @@
       "old_url": "https://0002n8y.wcomhost.com/website/FAC201617_page4/",
       "new_accessible": true,
       "old_accessible": false,
-      "new_size": 2188,
+      "new_size": 2184,
       "old_size": 0
     },
     "Fixtures0203.html": {
@@ -53,7 +53,7 @@
       "old_url": "https://0002n8y.wcomhost.com/website/Fixtures0203/",
       "new_accessible": true,
       "old_accessible": true,
-      "new_size": 3868,
+      "new_size": 3866,
       "old_size": 3617
     },
     "Fixtures0203_page10.html": {
@@ -61,7 +61,7 @@
       "old_url": "https://0002n8y.wcomhost.com/website/Fixtures0203_page10/",
       "new_accessible": true,
       "old_accessible": false,
-      "new_size": 7007,
+      "new_size": 7005,
       "old_size": 0
     },
     "Fixtures0203_page11.html": {
@@ -69,7 +69,7 @@
       "old_url": "https://0002n8y.wcomhost.com/website/Fixtures0203_page11/",
       "new_accessible": true,
       "old_accessible": false,
-      "new_size": 6883,
+      "new_size": 6881,
       "old_size": 0
     },
     "Fixtures0203_page12.html": {
@@ -77,7 +77,7 @@
       "old_url": "https://0002n8y.wcomhost.com/website/Fixtures0203_page12/",
       "new_accessible": true,
       "old_accessible": false,
-      "new_size": 1368,
+      "new_size": 1364,
       "old_size": 0
     }
   },
@@ -92,8 +92,8 @@
     "missing_images": []
   },
   "content_validation": {
-    "total_pages": 1104,
-    "clean_pages": 1056,
+    "total_pages": 1105,
+    "clean_pages": 1057,
     "issues": [
       "FAC201617.html: Very short content",
       "Fixtures0203.html: Very short content",
@@ -147,13 +147,13 @@
   },
   "structure_validation": {},
   "summary": {
-    "overall_score": 98.91304347826087,
+    "overall_score": 98.91402714932127,
     "accessibility_score": 100.0,
     "link_score": 100.0,
     "image_score": 100.0,
-    "content_score": 95.65217391304348,
+    "content_score": 95.65610859728507,
     "new_accessible": 10,
     "tested_pages": 10,
-    "total_pages": 1104
+    "total_pages": 1105
   }
 }
