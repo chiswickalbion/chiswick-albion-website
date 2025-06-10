@@ -1,0 +1,34 @@
+{
+  "summary": {
+    "totalFiles": 1105,
+    "forbiddenPages": [
+      "cups1516.html",
+      "cups1617.html",
+      "cups1718.html",
+      "cups1819.html",
+      "facup201819.html",
+      "facup201920.html",
+      "history4-2.html",
+      "history5.html",
+      "season1718.html",
+      "season2021.html",
+      "season2022.html"
+    ],
+    "filesModified": 0,
+    "totalLinksFixed": 0
+  },
+  "forbiddenMappings": {
+    "cups1516.html": "cups1516_.html",
+    "cups1617.html": "cups1617_.html",
+    "cups1718.html": "cups1718_.html",
+    "cups1819.html": "cups1819_.html",
+    "facup201819.html": "facup201819_.html",
+    "facup201920.html": "facup201920_.html",
+    "history4-2.html": "history4-2_.html",
+    "history5.html": "history5_.html",
+    "season1718.html": "season1718_.html",
+    "season2021.html": "season2021_.html",
+    "season2022.html": "season2022_.html"
+  },
+  "timestamp": "2025-06-09T20:47:25.493Z"
+}

@@ -1,0 +1,604 @@
+{
+  "broken_redirects": [
+    {
+      "file": "facup201920.html",
+      "size": 151,
+      "error_type": "403 Forbidden"
+    },
+    {
+      "file": "cups0102.html",
+      "size": 185,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "cups1617.html",
+      "size": 151,
+      "error_type": "403 Forbidden"
+    },
+    {
+      "file": "cups1011.html",
+      "size": 185,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "Fixtures0304.html",
+      "size": 190,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "fixtures1112.html",
+      "size": 190,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "fixtures0607.html",
+      "size": 190,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "cupdraws0506.html",
+      "size": 189,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "dopple.html",
+      "size": 183,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "fac1415.html",
+      "size": 184,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "fac0910.html",
+      "size": 184,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "fac1213.html",
+      "size": 184,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "facup1718.html",
+      "size": 186,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "vets08.html",
+      "size": 184,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "fac0809.html",
+      "size": 184,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "fac1516.html",
+      "size": 184,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "oldclubs.html",
+      "size": 185,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "facup201819.html",
+      "size": 151,
+      "error_type": "403 Forbidden"
+    },
+    {
+      "file": "brentfordts.html",
+      "size": 188,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "fixtures0708.html",
+      "size": 190,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "cups1112.html",
+      "size": 185,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "fixtures1011.html",
+      "size": 190,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "cups1718.html",
+      "size": 151,
+      "error_type": "403 Forbidden"
+    },
+    {
+      "file": "fixtures0102.html",
+      "size": 190,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "fixtures0506.html",
+      "size": 190,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "cups0809.html",
+      "size": 185,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "bedsunday.html",
+      "size": 186,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "cups1516.html",
+      "size": 151,
+      "error_type": "403 Forbidden"
+    },
+    {
+      "file": "clubs.html",
+      "size": 182,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "fac0607.html",
+      "size": 184,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "fac1112.html",
+      "size": 184,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "history5.html",
+      "size": 151,
+      "error_type": "403 Forbidden"
+    },
+    {
+      "file": "westmidd.html",
+      "size": 185,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "FAC201617.html",
+      "size": 186,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "History2.html",
+      "size": 186,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "fac1011.html",
+      "size": 184,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "fac202122.html",
+      "size": 186,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "fac0708.html",
+      "size": 184,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "tables2005.html",
+      "size": 187,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "cups131415.html",
+      "size": 187,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "Fixtures0405.html",
+      "size": 190,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "cups1819.html",
+      "size": 151,
+      "error_type": "403 Forbidden"
+    },
+    {
+      "file": "Fixtures0203.html",
+      "size": 190,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "fixtures0809.html",
+      "size": 190,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "cups0910.html",
+      "size": 185,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "cups1213.html",
+      "size": 185,
+      "error_type": "301 Moved Permanently"
+    },
+    {
+      "file": "history4-2.html",
+      "size": 151,
+      "error_type": "403 Forbidden"
+    }
+  ],
+  "page_analysis": [
+    {
+      "page": "honours",
+      "status": "good",
+      "old_accessible": true,
+      "new_accessible": true,
+      "old_url": "https://0002n8y.wcomhost.com/website/honours/",
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/honours.html",
+      "old_size": 2469,
+      "new_size": 2374,
+      "similarity": 0.9615228837586067,
+      "image_issues": [
+        "img0.gif",
+        "img1.gif"
+      ],
+      "broken_links": []
+    },
+    {
+      "page": "records",
+      "status": "good",
+      "old_accessible": true,
+      "new_accessible": true,
+      "old_url": "https://0002n8y.wcomhost.com/website/records/",
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/records.html",
+      "old_size": 1258,
+      "new_size": 1207,
+      "similarity": 0.9594594594594594,
+      "image_issues": [
+        "img0.gif",
+        "img1.gif"
+      ],
+      "broken_links": []
+    },
+    {
+      "page": "top25",
+      "status": "good",
+      "old_accessible": true,
+      "new_accessible": true,
+      "old_url": "https://0002n8y.wcomhost.com/website/top25/",
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/top25.html",
+      "old_size": 1285,
+      "new_size": 1229,
+      "similarity": 0.9564202334630351,
+      "image_issues": [
+        "img0.gif",
+        "img1.gif"
+      ],
+      "broken_links": []
+    },
+    {
+      "page": "videos",
+      "status": "good",
+      "old_accessible": true,
+      "new_accessible": true,
+      "old_url": "https://0002n8y.wcomhost.com/website/videos/",
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/videos.html",
+      "old_size": 3337,
+      "new_size": 3257,
+      "similarity": 0.9760263709919089,
+      "image_issues": [
+        "img0.gif",
+        "img1.gif"
+      ],
+      "broken_links": []
+    },
+    {
+      "page": "nextgame",
+      "status": "good",
+      "old_accessible": true,
+      "new_accessible": true,
+      "old_url": "https://0002n8y.wcomhost.com/website/nextgame/",
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/nextgame.html",
+      "old_size": 2682,
+      "new_size": 2530,
+      "similarity": 0.9433258762117822,
+      "image_issues": [
+        "img0.gif",
+        "img1.gif"
+      ],
+      "broken_links": []
+    },
+    {
+      "page": "History1",
+      "status": "good",
+      "old_accessible": true,
+      "new_accessible": true,
+      "old_url": "https://0002n8y.wcomhost.com/website/History1/",
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/History1.html",
+      "old_size": 4409,
+      "new_size": 4171,
+      "similarity": 0.9460195055568156,
+      "image_issues": [
+        "img0.gif"
+      ],
+      "broken_links": []
+    },
+    {
+      "page": "everyplayer_index",
+      "status": "new_only",
+      "old_accessible": false,
+      "new_accessible": true,
+      "old_url": "https://0002n8y.wcomhost.com/website/everyplayer_index/",
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/everyplayer_index.html",
+      "old_size": 575,
+      "new_size": 14061,
+      "similarity": 0,
+      "image_issues": [],
+      "broken_links": []
+    },
+    {
+      "page": "squad_page2",
+      "status": "new_only",
+      "old_accessible": false,
+      "new_accessible": true,
+      "old_url": "https://0002n8y.wcomhost.com/website/squad_page2/",
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/squad_page2.html",
+      "old_size": 575,
+      "new_size": 3680,
+      "similarity": 0,
+      "image_issues": [],
+      "broken_links": []
+    },
+    {
+      "page": "season2021",
+      "status": "good",
+      "old_accessible": true,
+      "new_accessible": true,
+      "old_url": "https://0002n8y.wcomhost.com/website/season2021/",
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/season2021.html",
+      "old_size": 4293,
+      "new_size": 4246,
+      "similarity": 0.9890519450267878,
+      "image_issues": [
+        "img0.gif",
+        "img1.gif",
+        "img2.gif"
+      ],
+      "broken_links": []
+    },
+    {
+      "page": "season2020",
+      "status": "both_broken",
+      "old_accessible": false,
+      "new_accessible": false,
+      "old_url": "https://0002n8y.wcomhost.com/website/season2020/",
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/season2020.html",
+      "old_size": 575,
+      "new_size": 9379,
+      "similarity": 0,
+      "image_issues": [],
+      "broken_links": []
+    },
+    {
+      "page": "latest_page2",
+      "status": "new_only",
+      "old_accessible": false,
+      "new_accessible": true,
+      "old_url": "https://0002n8y.wcomhost.com/website/latest_page2/",
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/latest_page2.html",
+      "old_size": 575,
+      "new_size": 3741,
+      "similarity": 0,
+      "image_issues": [],
+      "broken_links": []
+    },
+    {
+      "page": "clubhistory",
+      "status": "content_mismatch",
+      "old_accessible": true,
+      "new_accessible": true,
+      "old_url": "https://0002n8y.wcomhost.com/website/clubhistory/",
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/clubhistory.html",
+      "old_size": 12070,
+      "new_size": 628,
+      "similarity": 0.05202982601491301,
+      "image_issues": [
+        "img0.gif"
+      ],
+      "broken_links": []
+    },
+    {
+      "page": "legends_index",
+      "status": "new_only",
+      "old_accessible": false,
+      "new_accessible": true,
+      "old_url": "https://0002n8y.wcomhost.com/website/legends_index/",
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/legends_index.html",
+      "old_size": 575,
+      "new_size": 14204,
+      "similarity": 0,
+      "image_issues": [],
+      "broken_links": []
+    },
+    {
+      "page": "players2020",
+      "status": "both_broken",
+      "old_accessible": false,
+      "new_accessible": false,
+      "old_url": "https://0002n8y.wcomhost.com/website/players2020/",
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/players2020.html",
+      "old_size": 575,
+      "new_size": 9379,
+      "similarity": 0,
+      "image_issues": [],
+      "broken_links": []
+    },
+    {
+      "page": "fixtures2023",
+      "status": "both_broken",
+      "old_accessible": false,
+      "new_accessible": false,
+      "old_url": "https://0002n8y.wcomhost.com/website/fixtures2023/",
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/fixtures2023.html",
+      "old_size": 575,
+      "new_size": 9379,
+      "similarity": 0,
+      "image_issues": [],
+      "broken_links": []
+    },
+    {
+      "page": "season1920",
+      "status": "good",
+      "old_accessible": true,
+      "new_accessible": true,
+      "old_url": "https://0002n8y.wcomhost.com/website/season1920/",
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/season1920.html",
+      "old_size": 5359,
+      "new_size": 5379,
+      "similarity": 0.9962818367726343,
+      "image_issues": [
+        "img0.gif",
+        "img1.gif",
+        "img2.gif"
+      ],
+      "broken_links": []
+    },
+    {
+      "page": "season1819",
+      "status": "good",
+      "old_accessible": true,
+      "new_accessible": true,
+      "old_url": "https://0002n8y.wcomhost.com/website/season1819/",
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/season1819.html",
+      "old_size": 5809,
+      "new_size": 5900,
+      "similarity": 0.9845762711864406,
+      "image_issues": [
+        "img0.gif",
+        "img1.gif",
+        "img2.gif"
+      ],
+      "broken_links": []
+    },
+    {
+      "page": "season1718",
+      "status": "good",
+      "old_accessible": true,
+      "new_accessible": true,
+      "old_url": "https://0002n8y.wcomhost.com/website/season1718/",
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/season1718.html",
+      "old_size": 5052,
+      "new_size": 5050,
+      "similarity": 0.9996041171813144,
+      "image_issues": [
+        "img0.gif",
+        "img1.gif"
+      ],
+      "broken_links": []
+    },
+    {
+      "page": "dopple_index",
+      "status": "new_only",
+      "old_accessible": false,
+      "new_accessible": true,
+      "old_url": "https://0002n8y.wcomhost.com/website/dopple_index/",
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/dopple_index.html",
+      "old_size": 575,
+      "new_size": 7214,
+      "similarity": 0,
+      "image_issues": [],
+      "broken_links": []
+    },
+    {
+      "page": "playerawards_page2",
+      "status": "new_only",
+      "old_accessible": false,
+      "new_accessible": true,
+      "old_url": "https://0002n8y.wcomhost.com/website/playerawards_page2/",
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/playerawards_page2.html",
+      "old_size": 575,
+      "new_size": 2523,
+      "similarity": 0,
+      "image_issues": [],
+      "broken_links": []
+    },
+    {
+      "page": "sundaycup_index",
+      "status": "new_only",
+      "old_accessible": false,
+      "new_accessible": true,
+      "old_url": "https://0002n8y.wcomhost.com/website/sundaycup_index/",
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/sundaycup_index.html",
+      "old_size": 575,
+      "new_size": 5006,
+      "similarity": 0,
+      "image_issues": [],
+      "broken_links": []
+    },
+    {
+      "page": "tables2022",
+      "status": "both_broken",
+      "old_accessible": false,
+      "new_accessible": false,
+      "old_url": "https://0002n8y.wcomhost.com/website/tables2022/",
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/tables2022.html",
+      "old_size": 575,
+      "new_size": 9379,
+      "similarity": 0,
+      "image_issues": [],
+      "broken_links": []
+    },
+    {
+      "page": "cups2022",
+      "status": "both_broken",
+      "old_accessible": false,
+      "new_accessible": false,
+      "old_url": "https://0002n8y.wcomhost.com/website/cups2022/",
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/cups2022.html",
+      "old_size": 575,
+      "new_size": 9379,
+      "similarity": 0,
+      "image_issues": [],
+      "broken_links": []
+    },
+    {
+      "page": "fac202122_index",
+      "status": "new_only",
+      "old_accessible": false,
+      "new_accessible": true,
+      "old_url": "https://0002n8y.wcomhost.com/website/fac202122_index/",
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/fac202122_index.html",
+      "old_size": 575,
+      "new_size": 4477,
+      "similarity": 0,
+      "image_issues": [],
+      "broken_links": []
+    }
+  ],
+  "critical_issues": [
+    {
+      "page": "clubhistory",
+      "status": "content_mismatch",
+      "old_accessible": true,
+      "new_accessible": true,
+      "old_url": "https://0002n8y.wcomhost.com/website/clubhistory/",
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/clubhistory.html",
+      "old_size": 12070,
+      "new_size": 628,
+      "similarity": 0.05202982601491301,
+      "image_issues": [
+        "img0.gif"
+      ],
+      "broken_links": []
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "summary": {
+    "totalProcessed": 11,
+    "successful": 0,
+    "failed": 11,
+    "successRate": "0%"
+  },
+  "successfulPages": [],
+  "failedPages": [
+    {
+      "file": "cups1516.html",
+      "reason": "Still forbidden/not found"
+    },
+    {
+      "file": "cups1617.html",
+      "reason": "Still forbidden/not found"
+    },
+    {
+      "file": "cups1718.html",
+      "reason": "Still forbidden/not found"
+    },
+    {
+      "file": "cups1819.html",
+      "reason": "Still forbidden/not found"
+    },
+    {
+      "file": "facup201819.html",
+      "reason": "Still forbidden/not found"
+    },
+    {
+      "file": "facup201920.html",
+      "reason": "Still forbidden/not found"
+    },
+    {
+      "file": "history4-2.html",
+      "reason": "Still forbidden/not found"
+    },
+    {
+      "file": "history5.html",
+      "reason": "Still forbidden/not found"
+    },
+    {
+      "file": "season1718.html",
+      "reason": "Still forbidden/not found"
+    },
+    {
+      "file": "season2021.html",
+      "reason": "Still forbidden/not found"
+    },
+    {
+      "file": "season2022.html",
+      "reason": "Still forbidden/not found"
+    }
+  ],
+  "timestamp": "2025-06-09T20:46:47.818Z"
+}

@@ -1,0 +1,4289 @@
+{
+  "processed": [
+    "season2022_page22.html",
+    "website_home_.html"
+  ],
+  "failed": [],
+  "skipped": [
+    {
+      "file": "%3clegends.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "%3clegends_index.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "%3clegends_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "%3clegends_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "%3clegends_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "%3clegends_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "%3clegends_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "FAC201617.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "FAC201617_index.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "FAC201617_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "FAC201617_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "FAC201617_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0203.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0203_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0203_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0203_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0203_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0203_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0203_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0203_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0203_page17.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0203_page18.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0203_page19.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0203_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0203_page20.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0203_page21.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0203_page23.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0203_page24.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0203_page25.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0203_page26.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0203_page27.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0203_page28.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0203_page29.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0203_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0203_page30.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0203_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0203_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0203_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0203_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0203_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0203_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page17.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page18.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page19.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page20.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page21.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page22.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page23.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page24.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page25.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page26.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page27.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page28.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page29.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page30.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page31.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page32.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page33.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page34.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page35.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page36.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page37.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page38.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0304_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405_page17.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405_page18.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405_page19.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405_page20.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405_page21.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405_page22.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405_page23.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405_page24.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405_page25.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405_page26.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405_page27.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405_page28.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405_page29.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405_page30.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405_page31.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Fixtures0405_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History1.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History1_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History1_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History1_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History1_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History1_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History1_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History1_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History1_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History1_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History1_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History1_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History1_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History1_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History1_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History1_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History2_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History2_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History2_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History2_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History2_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History2_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History2_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History2_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History2_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History2_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History2_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History2_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History2_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "History2_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Players2020_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Players2020_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Players2020_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Players2020_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Players2020_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Players2020_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Players2020_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Players2020_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Players2020_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Players2020_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Players2020_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Players2020_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Players2020_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Players2020_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "Players2020_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "SW07.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "SWay2002.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "appearancegrid_index.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "appearancegrid_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "appearancegrid_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "bedsunday.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "bedsunday_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "bedsunday_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "bedsunday_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "bedsunday_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "bedsunday_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "bedsunday_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "bedsunday_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "bedsunday_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "brentfordts.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "brentfordts_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "brentfordts_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "brentfordts_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "brentfordts_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "brentfordts_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "brentfordts_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "brentfordts_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "brentfordts_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "brentfordts_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "brentfordts_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "brentfordts_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "brentfordts_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "brentfordts_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "brentfordts_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "brentfordts_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "champs08.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "champs200203.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubhistory.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page17.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page18.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page19.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page20.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page21.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page22.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page23.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page24.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page25.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page26.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page27.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page28.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page29.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page30.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page31.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page32.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page33.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page34.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page35.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page36.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page37.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page38.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page39.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page40.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page41.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "clubs_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cupdraws0506.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cupdraws0506_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cupdraws0506_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cupdraws0506_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cupdraws0506_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cupdraws0506_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cupdraws0506_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cupdraws0506_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cupdraws0506_page17.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cupdraws0506_page18.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cupdraws0506_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cupdraws0506_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cupdraws0506_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cupdraws0506_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cupdraws0506_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cupdraws0506_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cupdraws0506_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cupdraws0506_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups0102.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups0102_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups0102_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups0102_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups0607_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups0607_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups0607_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups0607_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups0607_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups0607_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups0607_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups0607_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups0809.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups0809_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups0809_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups0910.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups0910_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups0910_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1011.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1011_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1011_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1112.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1112_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1112_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1213.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1213_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1213_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1213_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups131415.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups131415_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups131415_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups131415_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups131415_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups131415_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1516.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1516_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1516_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1617.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1617_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1617_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1718.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1718_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1718_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1718_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1819.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1819_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1819_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1819_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1819_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1819_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1819_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1819_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1819_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1819_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1819_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1819_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1819_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1819_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1819_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "cups1819_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "details.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "dopple.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "dopple_index.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "dopple_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "dopple_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "doyouremember.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "doyouremember_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "doyouremember_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "doyouremember_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "doyouremember_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "everyplayer.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "everyplayer_index.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "everyplayer_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "everyplayer_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac0607.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac0607_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac0607_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac0607_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac0607_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac0708.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac0708_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac0708_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac0708_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac0708_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac0809.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac0809_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac0809_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac0809_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac0910.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac0910_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac0910_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac0910_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac0910_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac1011.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac1011_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac1011_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac1011_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac1011_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac1112.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac1112_index.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac1112_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac1112_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac1112_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac1213.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac1213_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac1213_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac1213_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac1213_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac1213_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac1213_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac1213_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac1213_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac1415.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac1415_index.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac1415_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac1415_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac1415_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac1516.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac1516_index.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac1516_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac1516_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac1516_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac202122.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac202122_index.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac202122_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fac202122_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "facup1718.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "facup1718_index.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "facup1718_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "facup1718_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "facup1718_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "facup201819.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "facup201819_index.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "facup201819_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "facup201819_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "facup201819_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "facup201920.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "facup201920_index.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "facup201920_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "facup201920_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "facup201920_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0102.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0102_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0102_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0102_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0102_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0102_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0102_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0102_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0102_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0102_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0102_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0102_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0102_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0102_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0102_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0506.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0506_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0506_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0506_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0506_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0506_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0506_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0506_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0506_page17.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0506_page18.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0506_page19.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0506_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0506_page20.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0506_page21.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0506_page22.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0506_page23.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0506_page24.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0506_page25.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0506_page26.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0506_page27.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0506_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0506_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0506_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0506_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0506_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0506_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0506_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0607.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0607_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0607_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0607_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0607_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0607_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0607_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0607_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0607_page17.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0607_page18.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0607_page19.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0607_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0607_page20.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0607_page21.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0607_page22.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0607_page23.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0607_page24.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0607_page25.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0607_page26.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0607_page27.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0607_page28.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0607_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0607_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0607_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0607_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0607_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0607_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0607_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0708.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0708_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0708_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0708_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0708_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0708_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0708_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0708_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0708_page17.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0708_page18.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0708_page19.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0708_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0708_page20.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0708_page21.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0708_page22.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0708_page23.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0708_page24.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0708_page25.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0708_page26.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0708_page27.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0708_page28.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0708_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0708_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0708_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0708_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0708_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0708_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0708_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0809.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0809_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0809_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0809_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0809_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0809_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0809_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0809_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0809_page17.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0809_page18.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0809_page19.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0809_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0809_page20.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0809_page21.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0809_page22.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0809_page23.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0809_page24.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0809_page25.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0809_page26.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0809_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0809_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0809_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0809_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0809_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0809_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures0809_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1011.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1011_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1011_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1011_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1011_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1011_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1011_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1011_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1011_page17.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1011_page18.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1011_page19.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1011_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1011_page20.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1011_page21.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1011_page22.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1011_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1011_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1011_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1011_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1011_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1011_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1011_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1112.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1112_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1112_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1112_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1112_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1112_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1112_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1112_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1112_page17.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1112_page18.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1112_page19.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1112_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1112_page20.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1112_page21.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1112_page22.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1112_page23.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1112_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1112_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1112_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1112_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1112_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1112_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "fixtures1112_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "forthcoming_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "forthcoming_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "forthcoming_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "forthcoming_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "forthcoming_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "forthcoming_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "forthcoming_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "forthcoming_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "forthcoming_page20.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "forthcoming_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "forthcoming_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "forthcoming_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "forthcoming_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "forthcoming_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "forthcoming_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "forthcoming_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "hist0203.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "hist0304.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "hist0405.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "hist0506.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "hist0607.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "history3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "history4-2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "history4-2_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "history4-2_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "history4-2_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "history4-2_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "history4-2_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "history4-2_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "history4-2_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "history4-2_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "history4-2_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "history4-2_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "history4-2_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "history5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "home.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "homegrounds.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "honours.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "horbach.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "latest.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "latest_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "newnewplayers_index.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "newnewplayers_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "newnewplayers_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "newnewplayers_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "newnewplayers_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "newnewplayers_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "newnewplayers_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "newnewplayers_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "newnewplayers_page17.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "newnewplayers_page18.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "newnewplayers_page19.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "newnewplayers_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "newnewplayers_page20.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "newnewplayers_page21.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "newnewplayers_page22.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "newnewplayers_page23.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "newnewplayers_page24.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "newnewplayers_page25.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "newnewplayers_page26.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "newnewplayers_page27.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "newnewplayers_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "newnewplayers_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "newnewplayers_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "newnewplayers_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "newnewplayers_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "newnewplayers_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "newnewplayers_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "nextgame.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldclubs.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldclubs_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldclubs_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldclubs_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldclubs_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldclubs_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldclubs_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldclubs_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldclubs_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page17.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page18.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page19.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page20.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page22.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page23.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page24.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page25.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page26.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page27.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page28.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page29.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page30.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page31.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page32.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page33.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page34.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page35.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page36.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page37.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "oldplayers_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "playerawards.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "playerawards_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "playerawards_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "playerawards_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players0607_index.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players0607_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players0607_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players0607_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players0607_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players0607_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players0607_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players0607_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players0607_page17.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players0607_page18.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players0607_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players0607_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players0607_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players0607_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players0607_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players0607_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players0607_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players0607_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players72.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players72_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players72_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players72_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players72_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players72_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players72_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players72_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players72_page17.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players72_page18.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players72_page19.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players72_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players72_page20.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players72_page21.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players72_page22.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players72_page23.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players72_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players72_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players72_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players72_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players72_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players72_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players72_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players8_index.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players8_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players8_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players8_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players8_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players8_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players8_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players8_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players8_page18.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players8_page19.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players8_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players8_page20.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players8_page21.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players8_page22.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players8_page25.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players8_page26.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players8_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players8_page31.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players8_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players8_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players8_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players8_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players8_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "players8_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "records.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season09-10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season09-10_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season09-10_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season09-10_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season09-10_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season09-10_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season09-10_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season09-10_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season09-10_page17.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season09-10_page18.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season09-10_page19.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season09-10_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season09-10_page20.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season09-10_page21.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season09-10_page22.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season09-10_page23.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season09-10_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season09-10_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season09-10_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season09-10_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season09-10_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season09-10_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season09-10_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1213a.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1213a_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1213a_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1213a_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1213a_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1213a_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1213a_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1213a_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1213a_page17.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1213a_page18.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1213a_page19.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1213a_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1213a_page20.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1213a_page21.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1213a_page22.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1213a_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1213a_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1213a_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1213a_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1213a_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1213a_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1314.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1314_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1314_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1314_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1314_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1314_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1314_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1314_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1314_page17.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1314_page18.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1314_page19.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1314_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1314_page20.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1314_page21.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1314_page22.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1314_page23.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1314_page24.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1314_page25.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1314_page26.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1314_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1314_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1314_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1314_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1314_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1314_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1314_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1415.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1415_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1415_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1415_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1415_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1415_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1415_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1415_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1415_page17.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1415_page18.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1415_page19.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1415_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1415_page20.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1415_page21.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1415_page22.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1415_page23.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1415_page24.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1415_page25.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1415_page26.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1415_page27.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1415_page28.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1415_page29.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1415_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1415_page30.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1415_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1415_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1415_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1415_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1415_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1415_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516_page17.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516_page18.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516_page19.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516_page20.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516_page21.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516_page22.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516_page23.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516_page24.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516_page25.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516_page26.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516_page27.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516_page28.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516_page29.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516_page30.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516_page31.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1516_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1617.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1617_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1617_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1617_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1617_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1617_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1617_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1617_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1617_page17.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1617_page18.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1617_page19.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1617_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1617_page20.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1617_page21.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1617_page22.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1617_page23.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1617_page24.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1617_page25.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1617_page26.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1617_page27.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1617_page28.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1617_page29.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1617_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1617_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1617_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1617_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1617_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1617_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1617_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1718.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1718_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1718_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1718_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1718_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1718_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1718_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1718_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1718_page17.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1718_page18.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1718_page19.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1718_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1718_page20.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1718_page21.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1718_page22.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1718_page23.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1718_page24.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1718_page25.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1718_page26.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1718_page27.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1718_page28.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1718_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1718_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1718_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1718_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1718_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1718_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1718_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1819.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1819_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1819_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1819_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1819_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1819_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1819_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1819_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1819_page17.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1819_page18.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1819_page19.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1819_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1819_page20.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1819_page21.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1819_page22.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1819_page23.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1819_page24.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1819_page25.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1819_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1819_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1819_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1819_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1819_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1819_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1819_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1920.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1920_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1920_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1920_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1920_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1920_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1920_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1920_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1920_page17.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1920_page18.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1920_page19.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1920_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1920_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1920_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1920_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1920_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1920_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1920_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season1920_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2021.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2021_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2021_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2021_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2021_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2021_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2021_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2021_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2021_page17.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2021_page18.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2021_page19.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2021_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2021_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2021_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2021_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2021_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2021_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2021_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2021_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2022.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2022_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2022_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2022_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2022_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2022_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2022_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2022_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2022_page17.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2022_page18.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2022_page19.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2022_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2022_page20.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2022_page21.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2022_page23.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2022_page24.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2022_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2022_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2022_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2022_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2022_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2022_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "season2022_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "squad.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "squad_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "sundaycup_index.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "sundaycup_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "sundaycup_page11.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "sundaycup_page12.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "sundaycup_page13.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "sundaycup_page14.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "sundaycup_page15.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "sundaycup_page16.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "sundaycup_page17.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "sundaycup_page18.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "sundaycup_page19.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "sundaycup_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "sundaycup_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "sundaycup_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "sundaycup_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "sundaycup_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "sundaycup_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "sundaycup_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "sundaycup_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "table_index.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "table_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "table_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "table_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "table_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "table_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "tables2005.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "tables2005_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "tables2005_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "tables2005_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "tables2005_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "tables2005_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "tables2005_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "tables2005_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "tables2005_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "tables2005_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "tables2012_index.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "tables2012_page10.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "tables2012_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "tables2012_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "tables2012_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "tables2012_page5.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "tables2012_page6.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "tables2012_page7.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "tables2012_page8.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "tables2012_page9.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "top25.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "vets08.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "videos.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "westmidd.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "westmidd_page2.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "westmidd_page3.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "westmidd_page4.html",
+      "reason": "No non-banner .gif image found"
+    },
+    {
+      "file": "yearbyyear.html",
+      "reason": "No non-banner .gif image found"
+    }
+  ]
+}

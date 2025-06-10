@@ -1,0 +1,32 @@
+{
+  "summary": {
+    "totalProcessed": 20,
+    "successful": 20,
+    "failed": 0,
+    "successRate": "100%"
+  },
+  "successfulPages": [
+    "SW07.html",
+    "SWay2002.html",
+    "champs08.html",
+    "champs200203.html",
+    "clubhistory.html",
+    "details.html",
+    "hist0203.html",
+    "hist0304.html",
+    "hist0405.html",
+    "hist0506.html",
+    "hist0607.html",
+    "history3.html",
+    "homegrounds.html",
+    "honours.html",
+    "horbach.html",
+    "nextgame.html",
+    "records.html",
+    "top25.html",
+    "videos.html",
+    "yearbyyear.html"
+  ],
+  "failedPages": [],
+  "timestamp": "2025-06-09T20:44:19.594Z"
+}

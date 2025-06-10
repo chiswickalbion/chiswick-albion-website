@@ -1,0 +1,179 @@
+{
+  "page_comparison": {
+    "FAC201617.html": {
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/FAC201617.html",
+      "old_url": "https://0002n8y.wcomhost.com/website/FAC201617/",
+      "new_accessible": true,
+      "old_accessible": true,
+      "new_size": 186,
+      "old_size": 2230
+    },
+    "FAC201617_index.html": {
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/FAC201617_index.html",
+      "old_url": "https://0002n8y.wcomhost.com/website/FAC201617_index/",
+      "new_accessible": true,
+      "old_accessible": false,
+      "new_size": 2259,
+      "old_size": 0
+    },
+    "FAC201617_page2.html": {
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/FAC201617_page2.html",
+      "old_url": "https://0002n8y.wcomhost.com/website/FAC201617_page2/",
+      "new_accessible": true,
+      "old_accessible": false,
+      "new_size": 2283,
+      "old_size": 0
+    },
+    "FAC201617_page3.html": {
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/FAC201617_page3.html",
+      "old_url": "https://0002n8y.wcomhost.com/website/FAC201617_page3/",
+      "new_accessible": true,
+      "old_accessible": false,
+      "new_size": 2282,
+      "old_size": 0
+    },
+    "FAC201617_page4.html": {
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/FAC201617_page4.html",
+      "old_url": "https://0002n8y.wcomhost.com/website/FAC201617_page4/",
+      "new_accessible": true,
+      "old_accessible": false,
+      "new_size": 2200,
+      "old_size": 0
+    },
+    "Fixtures0203.html": {
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/Fixtures0203.html",
+      "old_url": "https://0002n8y.wcomhost.com/website/Fixtures0203/",
+      "new_accessible": true,
+      "old_accessible": true,
+      "new_size": 190,
+      "old_size": 3617
+    },
+    "Fixtures0203_.html": {
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/Fixtures0203_.html",
+      "old_url": "https://0002n8y.wcomhost.com/website/Fixtures0203/",
+      "new_accessible": true,
+      "old_accessible": true,
+      "new_size": 3866,
+      "old_size": 3617
+    },
+    "Fixtures0203_page10.html": {
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/Fixtures0203_page10.html",
+      "old_url": "https://0002n8y.wcomhost.com/website/Fixtures0203_page10/",
+      "new_accessible": true,
+      "old_accessible": false,
+      "new_size": 7007,
+      "old_size": 0
+    },
+    "Fixtures0203_page11.html": {
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/Fixtures0203_page11.html",
+      "old_url": "https://0002n8y.wcomhost.com/website/Fixtures0203_page11/",
+      "new_accessible": true,
+      "old_accessible": false,
+      "new_size": 6883,
+      "old_size": 0
+    },
+    "Fixtures0203_page12.html": {
+      "new_url": "https://chiswickalbion.github.io/chiswick-albion-website/pages/Fixtures0203_page12.html",
+      "old_url": "https://0002n8y.wcomhost.com/website/Fixtures0203_page12/",
+      "new_accessible": true,
+      "old_accessible": false,
+      "new_size": 1368,
+      "old_size": 0
+    }
+  },
+  "link_validation": {
+    "total_links": 24,
+    "working_links": 24,
+    "broken_links": []
+  },
+  "image_validation": {
+    "total_images": 8,
+    "working_images": 8,
+    "missing_images": []
+  },
+  "content_validation": {
+    "total_pages": 1104,
+    "clean_pages": 1036,
+    "issues": [
+      "FAC201617.html: Very short content",
+      "Fixtures0203.html: Very short content",
+      "Fixtures0304.html: Very short content",
+      "Fixtures0405.html: Very short content",
+      "History2.html: Very short content",
+      "bedsunday.html: Very short content",
+      "brentfordts.html: Very short content",
+      "clubs.html: Very short content",
+      "cupdraws0506.html: Very short content",
+      "cups0102.html: Very short content",
+      "cups0809.html: Very short content",
+      "cups0910.html: Very short content",
+      "cups1011.html: Very short content",
+      "cups1112.html: Very short content",
+      "cups1213.html: Very short content",
+      "cups131415.html: Very short content",
+      "cups1516.html: Very short content",
+      "cups1617.html: Very short content",
+      "cups1718.html: Very short content",
+      "cups1819.html: Very short content",
+      "dopple.html: Very short content",
+      "doyouremember.html: Very short content",
+      "everyplayer.html: Very short content",
+      "fac0607.html: Very short content",
+      "fac0708.html: Very short content",
+      "fac0809.html: Very short content",
+      "fac0910.html: Very short content",
+      "fac1011.html: Very short content",
+      "fac1112.html: Very short content",
+      "fac1213.html: Very short content",
+      "fac1415.html: Very short content",
+      "fac1516.html: Very short content",
+      "fac202122.html: Very short content",
+      "facup1718.html: Very short content",
+      "facup201819.html: Very short content",
+      "facup201920.html: Very short content",
+      "fixtures0102.html: Very short content",
+      "fixtures0506.html: Very short content",
+      "fixtures0607.html: Very short content",
+      "fixtures0708.html: Very short content",
+      "fixtures0809.html: Very short content",
+      "fixtures1011.html: Very short content",
+      "fixtures1112.html: Very short content",
+      "history4-2.html: Very short content",
+      "history5.html: Very short content",
+      "home.html: Very short content",
+      "latest.html: Very short content",
+      "legends.html: Very short content",
+      "oldclubs.html: Very short content",
+      "oldplayers.html: Very short content",
+      "playerawards.html: Very short content",
+      "players72.html: Very short content",
+      "season09-10.html: Very short content",
+      "season1213a.html: Very short content",
+      "season1314.html: Very short content",
+      "season1415.html: Very short content",
+      "season1516.html: Very short content",
+      "season1617.html: Very short content",
+      "season1718.html: Very short content",
+      "season1819.html: Very short content",
+      "season1920.html: Very short content",
+      "season2021.html: Very short content",
+      "season2022.html: Very short content",
+      "squad.html: Very short content",
+      "tables2005.html: Very short content",
+      "vets08.html: Very short content",
+      "website_home_.html: Very short content",
+      "westmidd.html: Very short content"
+    ]
+  },
+  "structure_validation": {},
+  "summary": {
+    "overall_score": 98.46014492753623,
+    "accessibility_score": 100.0,
+    "link_score": 100.0,
+    "image_score": 100.0,
+    "content_score": 93.84057971014492,
+    "new_accessible": 10,
+    "tested_pages": 10,
+    "total_pages": 1104
+  }
+}
