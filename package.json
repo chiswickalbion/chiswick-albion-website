@@ -1,0 +1,23 @@
+{
+  "name": "chiswickalbion",
+  "version": "1.0.0",
+  "main": "browser_clone.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiswickalbion/chiswick-albion-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chiswickalbion/chiswick-albion-website/issues"
+  },
+  "homepage": "https://github.com/chiswickalbion/chiswick-albion-website#readme",
+  "description": "",
+  "dependencies": {
+    "puppeteer": "^24.10.0"
+  }
+}

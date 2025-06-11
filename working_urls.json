@@ -1,0 +1,38 @@
+{
+  "timestamp": "2025-06-10T23:12:09.051Z",
+  "results": {
+    "tested": 10,
+    "working": 3,
+    "failed": 7,
+    "formats": {
+      "html": 0,
+      "directory": 3
+    }
+  },
+  "workingUrls": [
+    {
+      "pageName": "FAC201617.html",
+      "workingUrl": "https://0002n8y.wcomhost.com/website/FAC201617/",
+      "format": "directory",
+      "title": "fac1617",
+      "contentLength": 0,
+      "expectedAccessible": true
+    },
+    {
+      "pageName": "Fixtures0203.html",
+      "workingUrl": "https://0002n8y.wcomhost.com/website/Fixtures0203/",
+      "format": "directory",
+      "title": "Fixtures 0203",
+      "contentLength": 0,
+      "expectedAccessible": true
+    },
+    {
+      "pageName": "Fixtures0203_.html",
+      "workingUrl": "https://0002n8y.wcomhost.com/website/Fixtures0203/",
+      "format": "directory",
+      "title": "Fixtures 0203",
+      "contentLength": 0,
+      "expectedAccessible": true
+    }
+  ]
+}

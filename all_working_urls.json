@@ -1,0 +1,245 @@
+{
+  "timestamp": "2025-06-10T23:15:06.612Z",
+  "results": {
+    "tested": 71,
+    "working": 19,
+    "failed": 52
+  },
+  "workingUrls": [
+    {
+      "pageName": "honours.html",
+      "baseName": "honours",
+      "workingUrl": "https://0002n8y.wcomhost.com/website/honours/",
+      "title": "honours only",
+      "contentLength": 16
+    },
+    {
+      "pageName": "videos.html",
+      "baseName": "videos",
+      "workingUrl": "https://0002n8y.wcomhost.com/website/videos/",
+      "title": "video",
+      "contentLength": 0
+    },
+    {
+      "pageName": "nextgame.html",
+      "baseName": "nextgame",
+      "workingUrl": "https://0002n8y.wcomhost.com/website/nextgame/",
+      "title": "nextgame",
+      "contentLength": 107
+    },
+    {
+      "pageName": "details.html",
+      "baseName": "details",
+      "workingUrl": "https://0002n8y.wcomhost.com/website/details/",
+      "title": "Club Details",
+      "contentLength": 543
+    },
+    {
+      "pageName": "records.html",
+      "baseName": "records",
+      "workingUrl": "https://0002n8y.wcomhost.com/website/records/",
+      "title": "records",
+      "contentLength": 0
+    },
+    {
+      "pageName": "SW07.html",
+      "baseName": "SW07",
+      "workingUrl": "https://0002n8y.wcomhost.com/website/SW07/",
+      "title": "SW07",
+      "contentLength": 0
+    },
+    {
+      "pageName": "yearbyyear.html",
+      "baseName": "yearbyyear",
+      "workingUrl": "https://0002n8y.wcomhost.com/website/yearbyyear/",
+      "title": "yearbyyear",
+      "contentLength": 0
+    },
+    {
+      "pageName": "SWay2002.html",
+      "baseName": "SWay2002",
+      "workingUrl": "https://0002n8y.wcomhost.com/website/SWay2002/",
+      "title": "SWay2002",
+      "contentLength": 0
+    },
+    {
+      "pageName": "hist0304.html",
+      "baseName": "hist0304",
+      "workingUrl": "https://0002n8y.wcomhost.com/website/hist0304/",
+      "title": "hist0304",
+      "contentLength": 0
+    },
+    {
+      "pageName": "hist0607.html",
+      "baseName": "hist0607",
+      "workingUrl": "https://0002n8y.wcomhost.com/website/hist0607/",
+      "title": "hist0607",
+      "contentLength": 0
+    },
+    {
+      "pageName": "horbach.html",
+      "baseName": "horbach",
+      "workingUrl": "https://0002n8y.wcomhost.com/website/horbach/",
+      "title": "horbach",
+      "contentLength": 0
+    },
+    {
+      "pageName": "champs200203.html",
+      "baseName": "champs200203",
+      "workingUrl": "https://0002n8y.wcomhost.com/website/champs200203/",
+      "title": "champs200203",
+      "contentLength": 0
+    },
+    {
+      "pageName": "hist0405.html",
+      "baseName": "hist0405",
+      "workingUrl": "https://0002n8y.wcomhost.com/website/hist0405/",
+      "title": "hist0405",
+      "contentLength": 9
+    },
+    {
+      "pageName": "top25.html",
+      "baseName": "top25",
+      "workingUrl": "https://0002n8y.wcomhost.com/website/top25/",
+      "title": "top25",
+      "contentLength": 0
+    },
+    {
+      "pageName": "hist0203.html",
+      "baseName": "hist0203",
+      "workingUrl": "https://0002n8y.wcomhost.com/website/hist0203/",
+      "title": "hist0203",
+      "contentLength": 0
+    },
+    {
+      "pageName": "champs08.html",
+      "baseName": "champs08",
+      "workingUrl": "https://0002n8y.wcomhost.com/website/champs08/",
+      "title": "champs08",
+      "contentLength": 0
+    },
+    {
+      "pageName": "hist0506.html",
+      "baseName": "hist0506",
+      "workingUrl": "https://0002n8y.wcomhost.com/website/hist0506/",
+      "title": "his0506",
+      "contentLength": 9
+    },
+    {
+      "pageName": "homegrounds.html",
+      "baseName": "homegrounds",
+      "workingUrl": "https://0002n8y.wcomhost.com/website/homegrounds/",
+      "title": "grounds",
+      "contentLength": 0
+    },
+    {
+      "pageName": "history3.html",
+      "baseName": "history3",
+      "workingUrl": "https://0002n8y.wcomhost.com/website/history3/",
+      "title": "history3",
+      "contentLength": 0
+    }
+  ],
+  "failedUrls": [
+    {
+      "pageName": "players8_index.html",
+      "url": "https://0002n8y.wcomhost.com/website/players8_index/",
+      "error": 404
+    },
+    {
+      "pageName": "cups1516_.html",
+      "url": "https://0002n8y.wcomhost.com/website/cups1516_/",
+      "error": 404
+    },
+    {
+      "pageName": "cups1617_.html",
+      "url": "https://0002n8y.wcomhost.com/website/cups1617_/",
+      "error": 404
+    },
+    {
+      "pageName": "fac1112_index.html",
+      "url": "https://0002n8y.wcomhost.com/website/fac1112_index/",
+      "error": 404
+    },
+    {
+      "pageName": "Fixtures0203_.html",
+      "url": "https://0002n8y.wcomhost.com/website/Fixtures0203_/",
+      "error": 404
+    },
+    {
+      "pageName": "fixtures0102_.html",
+      "url": "https://0002n8y.wcomhost.com/website/fixtures0102_/",
+      "error": 404
+    },
+    {
+      "pageName": "facup201920_index.html",
+      "url": "https://0002n8y.wcomhost.com/website/facup201920_index/",
+      "error": 404
+    },
+    {
+      "pageName": "season1213a_.html",
+      "url": "https://0002n8y.wcomhost.com/website/season1213a_/",
+      "error": 404
+    },
+    {
+      "pageName": "fixtures0708_.html",
+      "url": "https://0002n8y.wcomhost.com/website/fixtures0708_/",
+      "error": 404
+    },
+    {
+      "pageName": "cups1819_.html",
+      "url": "https://0002n8y.wcomhost.com/website/cups1819_/",
+      "error": 404
+    },
+    {
+      "pageName": "appearancegrid_index.html",
+      "url": "https://0002n8y.wcomhost.com/website/appearancegrid_index/",
+      "error": 404
+    },
+    {
+      "pageName": "season1819_.html",
+      "url": "https://0002n8y.wcomhost.com/website/season1819_/",
+      "error": 404
+    },
+    {
+      "pageName": "tables2012_index.html",
+      "url": "https://0002n8y.wcomhost.com/website/tables2012_index/",
+      "error": 404
+    },
+    {
+      "pageName": "table_index.html",
+      "url": "https://0002n8y.wcomhost.com/website/table_index/",
+      "error": 404
+    },
+    {
+      "pageName": "season1920_.html",
+      "url": "https://0002n8y.wcomhost.com/website/season1920_/",
+      "error": 404
+    },
+    {
+      "pageName": "vets08_.html",
+      "url": "https://0002n8y.wcomhost.com/website/vets08_/",
+      "error": 404
+    },
+    {
+      "pageName": "Fixtures0304_.html",
+      "url": "https://0002n8y.wcomhost.com/website/Fixtures0304_/",
+      "error": 404
+    },
+    {
+      "pageName": "fac1516_index.html",
+      "url": "https://0002n8y.wcomhost.com/website/fac1516_index/",
+      "error": 404
+    },
+    {
+      "pageName": "season1415_.html",
+      "url": "https://0002n8y.wcomhost.com/website/season1415_/",
+      "error": 404
+    },
+    {
+      "pageName": "sundaycup_index.html",
+      "url": "https://0002n8y.wcomhost.com/website/sundaycup_index/",
+      "error": 404
+    }
+  ]
+}

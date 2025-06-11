@@ -1,0 +1,798 @@
+2025-06-10 23:01:15,482 - INFO - Loaded 117 pages from validation report
+2025-06-10 23:01:15,483 - INFO - Starting full site clone
+2025-06-10 23:01:15,483 - INFO - Created directory: web/pages
+2025-06-10 23:01:15,483 - INFO - Created directory: web/assets/images
+2025-06-10 23:01:15,483 - INFO - Found 117 pages to process
+2025-06-10 23:01:15,497 - INFO - Processing page: https://0002n8y.wcomhost.com/website/legends_page5/ -> web/pages/legends_page5.html
+2025-06-10 23:01:15,497 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0405_/ -> web/pages/Fixtures0405_.html
+2025-06-10 23:01:15,497 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page13/ -> web/pages/Fixtures0203_page13.html
+2025-06-10 23:01:15,498 - INFO - Processing page: https://0002n8y.wcomhost.com/website/season2022_page20/ -> web/pages/season2022_page20.html
+2025-06-10 23:01:15,498 - INFO - Processing page: https://0002n8y.wcomhost.com/website/squad_page2/ -> web/pages/squad_page2.html
+2025-06-10 23:01:22,606 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/season2022_page20/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/season2022_page20/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:01:22,608 - INFO - Processing page: https://0002n8y.wcomhost.com/website/SWay2002/ -> web/pages/SWay2002.html
+2025-06-10 23:01:22,608 - WARNING - Failed to process season2022_page20.html
+2025-06-10 23:01:22,609 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0405_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0405_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:01:22,610 - INFO - Processing page: https://0002n8y.wcomhost.com/website/fac1112_index/ -> web/pages/fac1112_index.html
+2025-06-10 23:01:22,611 - WARNING - Failed to process Fixtures0405_.html
+2025-06-10 23:01:22,829 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/legends_page5/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/legends_page5/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:01:22,829 - INFO - Processing page: https://0002n8y.wcomhost.com/website/players8_index/ -> web/pages/players8_index.html
+2025-06-10 23:01:22,829 - WARNING - Failed to process legends_page5.html
+2025-06-10 23:01:22,832 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/squad_page2/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/squad_page2/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:01:22,832 - INFO - Processing page: https://0002n8y.wcomhost.com/website/fac1415_index/ -> web/pages/fac1415_index.html
+2025-06-10 23:01:22,833 - WARNING - Failed to process squad_page2.html
+2025-06-10 23:01:22,842 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page13/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page13/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:01:22,842 - INFO - Processing page: https://0002n8y.wcomhost.com/website/season1415_/ -> web/pages/season1415_.html
+2025-06-10 23:01:22,842 - WARNING - Failed to process Fixtures0203_page13.html
+2025-06-10 23:01:23,971 - INFO - Processing page: https://0002n8y.wcomhost.com/website/newnewplayers_index/ -> web/pages/newnewplayers_index.html
+2025-06-10 23:01:29,272 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/fac1112_index/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/fac1112_index/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:01:29,273 - INFO - Processing page: https://0002n8y.wcomhost.com/website/cups1718_/ -> web/pages/cups1718_.html
+2025-06-10 23:01:29,274 - WARNING - Failed to process fac1112_index.html
+2025-06-10 23:01:29,472 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/fac1415_index/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/fac1415_index/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:01:29,473 - INFO - Processing page: https://0002n8y.wcomhost.com/website/yearbyyear/ -> web/pages/yearbyyear.html
+2025-06-10 23:01:29,473 - WARNING - Failed to process fac1415_index.html
+2025-06-10 23:01:29,483 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/season1415_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/season1415_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:01:29,483 - INFO - Processing page: https://0002n8y.wcomhost.com/website/everyplayer_index/ -> web/pages/everyplayer_index.html
+2025-06-10 23:01:29,483 - WARNING - Failed to process season1415_.html
+2025-06-10 23:01:29,484 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/players8_index/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/players8_index/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:01:29,485 - INFO - Processing page: https://0002n8y.wcomhost.com/website/season1516_/ -> web/pages/season1516_.html
+2025-06-10 23:01:29,485 - WARNING - Failed to process players8_index.html
+2025-06-10 23:01:29,659 - INFO - Processing page: https://0002n8y.wcomhost.com/website/cupdraws0506_page2/ -> web/pages/cupdraws0506_page2.html
+2025-06-10 23:01:30,608 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/newnewplayers_index/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/newnewplayers_index/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:01:30,609 - INFO - Processing page: https://0002n8y.wcomhost.com/website/cups1819_/ -> web/pages/cups1819_.html
+2025-06-10 23:01:30,609 - WARNING - Failed to process newnewplayers_index.html
+2025-06-10 23:01:35,959 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/cups1718_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/cups1718_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:01:35,960 - INFO - Processing page: https://0002n8y.wcomhost.com/website/cups1819_page14/ -> web/pages/cups1819_page14.html
+2025-06-10 23:01:35,960 - WARNING - Failed to process cups1718_.html
+2025-06-10 23:01:36,138 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/everyplayer_index/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/everyplayer_index/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:01:36,140 - INFO - Processing page: https://0002n8y.wcomhost.com/website/cupdraws0506_page18/ -> web/pages/cupdraws0506_page18.html
+2025-06-10 23:01:36,140 - WARNING - Failed to process everyplayer_index.html
+2025-06-10 23:01:36,153 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/season1516_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/season1516_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:01:36,154 - INFO - Processing page: https://0002n8y.wcomhost.com/website/legends_page6/ -> web/pages/legends_page6.html
+2025-06-10 23:01:36,154 - WARNING - Failed to process season1516_.html
+2025-06-10 23:01:36,353 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/cupdraws0506_page2/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/cupdraws0506_page2/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:01:36,353 - INFO - Processing page: https://0002n8y.wcomhost.com/website/fixtures1011_/ -> web/pages/fixtures1011_.html
+2025-06-10 23:01:36,353 - WARNING - Failed to process cupdraws0506_page2.html
+2025-06-10 23:01:37,272 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/cups1819_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/cups1819_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:01:37,272 - INFO - Processing page: https://0002n8y.wcomhost.com/website/vets08_/ -> web/pages/vets08_.html
+2025-06-10 23:01:37,272 - WARNING - Failed to process cups1819_.html
+2025-06-10 23:01:42,756 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/cups1819_page14/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/cups1819_page14/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:01:42,757 - INFO - Processing page: https://0002n8y.wcomhost.com/website/champs08/ -> web/pages/champs08.html
+2025-06-10 23:01:42,757 - WARNING - Failed to process cups1819_page14.html
+2025-06-10 23:01:42,783 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/legends_page6/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/legends_page6/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:01:42,783 - INFO - Processing page: https://0002n8y.wcomhost.com/website/History1/ -> web/pages/History1.html
+2025-06-10 23:01:42,783 - WARNING - Failed to process legends_page6.html
+2025-06-10 23:01:42,855 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/cupdraws0506_page18/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/cupdraws0506_page18/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:01:42,856 - INFO - Processing page: https://0002n8y.wcomhost.com/website/players0607_index/ -> web/pages/players0607_index.html
+2025-06-10 23:01:42,856 - WARNING - Failed to process cupdraws0506_page18.html
+2025-06-10 23:01:42,931 - INFO - Processing page: https://0002n8y.wcomhost.com/website/cups1516_/ -> web/pages/cups1516_.html
+2025-06-10 23:01:42,969 - INFO - Processing page: https://0002n8y.wcomhost.com/website/SW07/ -> web/pages/SW07.html
+2025-06-10 23:01:43,000 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/fixtures1011_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/fixtures1011_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:01:43,000 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page20/ -> web/pages/Fixtures0203_page20.html
+2025-06-10 23:01:43,000 - WARNING - Failed to process fixtures1011_.html
+2025-06-10 23:01:43,159 - INFO - Processing page: https://0002n8y.wcomhost.com/website/fixtures0506_/ -> web/pages/fixtures0506_.html
+2025-06-10 23:01:43,919 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/vets08_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/vets08_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:01:43,920 - INFO - Processing page: https://0002n8y.wcomhost.com/website/sundaycup_page19/ -> web/pages/sundaycup_page19.html
+2025-06-10 23:01:43,920 - WARNING - Failed to process vets08_.html
+2025-06-10 23:01:49,500 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/players0607_index/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/players0607_index/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:01:49,500 - INFO - Processing page: https://0002n8y.wcomhost.com/website/season2022_page22/ -> web/pages/season2022_page22.html
+2025-06-10 23:01:49,501 - WARNING - Failed to process players0607_index.html
+2025-06-10 23:01:49,570 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/cups1516_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/cups1516_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:01:49,571 - INFO - Processing page: https://0002n8y.wcomhost.com/website/details/ -> web/pages/details.html
+2025-06-10 23:01:49,571 - WARNING - Failed to process cups1516_.html
+2025-06-10 23:01:49,647 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page20/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page20/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:01:49,647 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page18/ -> web/pages/Fixtures0203_page18.html
+2025-06-10 23:01:49,647 - WARNING - Failed to process Fixtures0203_page20.html
+2025-06-10 23:01:49,762 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page21/ -> web/pages/Fixtures0203_page21.html
+2025-06-10 23:01:49,822 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/fixtures0506_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/fixtures0506_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:01:49,822 - INFO - Processing page: https://0002n8y.wcomhost.com/website/sundaycup_index/ -> web/pages/sundaycup_index.html
+2025-06-10 23:01:49,822 - WARNING - Failed to process fixtures0506_.html
+2025-06-10 23:01:50,556 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/sundaycup_page19/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/sundaycup_page19/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:01:50,556 - INFO - Processing page: https://0002n8y.wcomhost.com/website/history5_/ -> web/pages/history5_.html
+2025-06-10 23:01:50,556 - WARNING - Failed to process sundaycup_page19.html
+2025-06-10 23:01:56,131 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/season2022_page22/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/season2022_page22/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:01:56,131 - INFO - Processing page: https://0002n8y.wcomhost.com/website/legends_page4/ -> web/pages/legends_page4.html
+2025-06-10 23:01:56,131 - WARNING - Failed to process season2022_page22.html
+2025-06-10 23:01:56,477 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page21/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page21/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:01:56,477 - INFO - Processing page: https://0002n8y.wcomhost.com/website/homegrounds/ -> web/pages/homegrounds.html
+2025-06-10 23:01:56,477 - WARNING - Failed to process Fixtures0203_page21.html
+2025-06-10 23:01:56,507 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page18/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page18/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:01:56,507 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page11/ -> web/pages/Fixtures0203_page11.html
+2025-06-10 23:01:56,507 - WARNING - Failed to process Fixtures0203_page18.html
+2025-06-10 23:01:56,639 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/sundaycup_index/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/sundaycup_index/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:01:56,640 - INFO - Processing page: https://0002n8y.wcomhost.com/website/website_home_/ -> web/pages/website_home_.html
+2025-06-10 23:01:56,640 - WARNING - Failed to process sundaycup_index.html
+2025-06-10 23:01:56,665 - INFO - Processing page: https://0002n8y.wcomhost.com/website/History2_/ -> web/pages/History2_.html
+2025-06-10 23:01:57,231 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/history5_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/history5_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:01:57,231 - INFO - Processing page: https://0002n8y.wcomhost.com/website/season2022_page21/ -> web/pages/season2022_page21.html
+2025-06-10 23:01:57,233 - WARNING - Failed to process history5_.html
+2025-06-10 23:02:02,778 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/legends_page4/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/legends_page4/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:02,780 - INFO - Processing page: https://0002n8y.wcomhost.com/website/hist0506/ -> web/pages/hist0506.html
+2025-06-10 23:02:02,781 - WARNING - Failed to process legends_page4.html
+2025-06-10 23:02:03,141 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page11/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page11/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:03,143 - INFO - Processing page: https://0002n8y.wcomhost.com/website/dopple_index/ -> web/pages/dopple_index.html
+2025-06-10 23:02:03,143 - WARNING - Failed to process Fixtures0203_page11.html
+2025-06-10 23:02:03,315 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/History2_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/History2_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:03,316 - INFO - Processing page: https://0002n8y.wcomhost.com/website/players0607_page18/ -> web/pages/players0607_page18.html
+2025-06-10 23:02:03,316 - WARNING - Failed to process History2_.html
+2025-06-10 23:02:03,334 - INFO - Processing page: https://0002n8y.wcomhost.com/website/fixtures1112_/ -> web/pages/fixtures1112_.html
+2025-06-10 23:02:03,355 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/website_home_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/website_home_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:03,355 - INFO - Processing page: https://0002n8y.wcomhost.com/website/season1617_/ -> web/pages/season1617_.html
+2025-06-10 23:02:03,355 - WARNING - Failed to process website_home_.html
+2025-06-10 23:02:04,157 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/season2022_page21/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/season2022_page21/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:04,158 - INFO - Processing page: https://0002n8y.wcomhost.com/website/fac202122_page3/ -> web/pages/fac202122_page3.html
+2025-06-10 23:02:04,159 - WARNING - Failed to process season2022_page21.html
+2025-06-10 23:02:09,801 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/dopple_index/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/dopple_index/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:09,803 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page17/ -> web/pages/Fixtures0203_page17.html
+2025-06-10 23:02:09,803 - WARNING - Failed to process dopple_index.html
+2025-06-10 23:02:09,977 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/players0607_page18/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/players0607_page18/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:09,977 - INFO - Processing page: https://0002n8y.wcomhost.com/website/fac1516_index/ -> web/pages/fac1516_index.html
+2025-06-10 23:02:09,977 - WARNING - Failed to process players0607_page18.html
+2025-06-10 23:02:10,003 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/season1617_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/season1617_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:10,003 - INFO - Processing page: https://0002n8y.wcomhost.com/website/fixtures0607_/ -> web/pages/fixtures0607_.html
+2025-06-10 23:02:10,003 - WARNING - Failed to process season1617_.html
+2025-06-10 23:02:10,022 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/fixtures1112_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/fixtures1112_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:10,023 - INFO - Processing page: https://0002n8y.wcomhost.com/website/season1920_/ -> web/pages/season1920_.html
+2025-06-10 23:02:10,023 - WARNING - Failed to process fixtures1112_.html
+2025-06-10 23:02:10,821 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/fac202122_page3/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/fac202122_page3/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:10,821 - INFO - Processing page: https://0002n8y.wcomhost.com/website/season2022_page24/ -> web/pages/season2022_page24.html
+2025-06-10 23:02:10,822 - WARNING - Failed to process fac202122_page3.html
+2025-06-10 23:02:16,457 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page17/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page17/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:16,457 - INFO - Processing page: https://0002n8y.wcomhost.com/website/top25/ -> web/pages/top25.html
+2025-06-10 23:02:16,457 - WARNING - Failed to process Fixtures0203_page17.html
+2025-06-10 23:02:16,637 - INFO - Processing page: https://0002n8y.wcomhost.com/website/champs200203/ -> web/pages/champs200203.html
+2025-06-10 23:02:16,651 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/fac1516_index/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/fac1516_index/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:16,651 - INFO - Processing page: https://0002n8y.wcomhost.com/website/hist0304/ -> web/pages/hist0304.html
+2025-06-10 23:02:16,651 - WARNING - Failed to process fac1516_index.html
+2025-06-10 23:02:16,665 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/fixtures0607_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/fixtures0607_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:16,665 - INFO - Processing page: https://0002n8y.wcomhost.com/website/clubhistory/ -> web/pages/clubhistory.html
+2025-06-10 23:02:16,665 - WARNING - Failed to process fixtures0607_.html
+2025-06-10 23:02:16,828 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/season1920_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/season1920_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:16,828 - INFO - Processing page: https://0002n8y.wcomhost.com/website/hist0607/ -> web/pages/hist0607.html
+2025-06-10 23:02:16,828 - INFO - Processing page: https://0002n8y.wcomhost.com/website/cups1819_page13/ -> web/pages/cups1819_page13.html
+2025-06-10 23:02:16,828 - WARNING - Failed to process season1920_.html
+2025-06-10 23:02:16,860 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page14/ -> web/pages/Fixtures0203_page14.html
+2025-06-10 23:02:17,017 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page8/ -> web/pages/Fixtures0203_page8.html
+2025-06-10 23:02:17,050 - INFO - Processing page: https://0002n8y.wcomhost.com/website/season2022_/ -> web/pages/season2022_.html
+2025-06-10 23:02:17,521 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/season2022_page24/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/season2022_page24/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:17,522 - INFO - Processing page: https://0002n8y.wcomhost.com/website/facup201819_index/ -> web/pages/facup201819_index.html
+2025-06-10 23:02:17,522 - WARNING - Failed to process season2022_page24.html
+2025-06-10 23:02:23,485 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/cups1819_page13/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/cups1819_page13/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:23,486 - INFO - Processing page: https://0002n8y.wcomhost.com/website/nextgame/ -> web/pages/nextgame.html
+2025-06-10 23:02:23,486 - WARNING - Failed to process cups1819_page13.html
+2025-06-10 23:02:23,492 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page14/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page14/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:23,492 - INFO - Processing page: https://0002n8y.wcomhost.com/website/season2021_/ -> web/pages/season2021_.html
+2025-06-10 23:02:23,493 - WARNING - Failed to process Fixtures0203_page14.html
+2025-06-10 23:02:23,675 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0304_/ -> web/pages/Fixtures0304_.html
+2025-06-10 23:02:23,684 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page8/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page8/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:23,684 - INFO - Processing page: https://0002n8y.wcomhost.com/website/tables2012_page10/ -> web/pages/tables2012_page10.html
+2025-06-10 23:02:23,684 - WARNING - Failed to process Fixtures0203_page8.html
+2025-06-10 23:02:23,689 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/season2022_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/season2022_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:23,689 - INFO - Processing page: https://0002n8y.wcomhost.com/website/cupdraws0506_page17/ -> web/pages/cupdraws0506_page17.html
+2025-06-10 23:02:23,689 - WARNING - Failed to process season2022_.html
+2025-06-10 23:02:24,183 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/facup201819_index/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/facup201819_index/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:24,183 - INFO - Processing page: https://0002n8y.wcomhost.com/website/fixtures0102_/ -> web/pages/fixtures0102_.html
+2025-06-10 23:02:24,183 - WARNING - Failed to process facup201819_index.html
+2025-06-10 23:02:30,148 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/season2021_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/season2021_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:30,149 - INFO - Processing page: https://0002n8y.wcomhost.com/website/FAC201617_index/ -> web/pages/FAC201617_index.html
+2025-06-10 23:02:30,150 - WARNING - Failed to process season2021_.html
+2025-06-10 23:02:30,319 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/cupdraws0506_page17/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/cupdraws0506_page17/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:30,319 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page19/ -> web/pages/Fixtures0203_page19.html
+2025-06-10 23:02:30,319 - WARNING - Failed to process cupdraws0506_page17.html
+2025-06-10 23:02:30,333 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/tables2012_page10/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/tables2012_page10/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:30,334 - INFO - Processing page: https://0002n8y.wcomhost.com/website/season1718_/ -> web/pages/season1718_.html
+2025-06-10 23:02:30,334 - WARNING - Failed to process tables2012_page10.html
+2025-06-10 23:02:30,335 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0304_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0304_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:30,336 - INFO - Processing page: https://0002n8y.wcomhost.com/website/cups1617_/ -> web/pages/cups1617_.html
+2025-06-10 23:02:30,336 - WARNING - Failed to process Fixtures0304_.html
+2025-06-10 23:02:30,847 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/fixtures0102_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/fixtures0102_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:30,847 - INFO - Processing page: https://0002n8y.wcomhost.com/website/legends_page3/ -> web/pages/legends_page3.html
+2025-06-10 23:02:30,847 - WARNING - Failed to process fixtures0102_.html
+2025-06-10 23:02:36,801 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/FAC201617_index/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/FAC201617_index/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:36,802 - INFO - Processing page: https://0002n8y.wcomhost.com/website/table_index/ -> web/pages/table_index.html
+2025-06-10 23:02:36,803 - WARNING - Failed to process FAC201617_index.html
+2025-06-10 23:02:36,974 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/cups1617_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/cups1617_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:36,974 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page16/ -> web/pages/Fixtures0203_page16.html
+2025-06-10 23:02:36,974 - WARNING - Failed to process cups1617_.html
+2025-06-10 23:02:36,978 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page19/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page19/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:36,978 - INFO - Processing page: https://0002n8y.wcomhost.com/website/facup201920_/ -> web/pages/facup201920_.html
+2025-06-10 23:02:36,979 - WARNING - Failed to process Fixtures0203_page19.html
+2025-06-10 23:02:36,985 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/season1718_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/season1718_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:36,985 - INFO - Processing page: https://0002n8y.wcomhost.com/website/tables2012_index/ -> web/pages/tables2012_index.html
+2025-06-10 23:02:36,985 - WARNING - Failed to process season1718_.html
+2025-06-10 23:02:37,502 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/legends_page3/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/legends_page3/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:37,503 - INFO - Processing page: https://0002n8y.wcomhost.com/website/fac202122_page2/ -> web/pages/fac202122_page2.html
+2025-06-10 23:02:37,504 - WARNING - Failed to process legends_page3.html
+2025-06-10 23:02:43,561 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/table_index/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/table_index/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:43,562 - INFO - Processing page: https://0002n8y.wcomhost.com/website/cupdraws0506_page16/ -> web/pages/cupdraws0506_page16.html
+2025-06-10 23:02:43,562 - WARNING - Failed to process table_index.html
+2025-06-10 23:02:43,622 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page16/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page16/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:43,622 - INFO - Processing page: https://0002n8y.wcomhost.com/website/cupdraws0506_page15/ -> web/pages/cupdraws0506_page15.html
+2025-06-10 23:02:43,622 - WARNING - Failed to process Fixtures0203_page16.html
+2025-06-10 23:02:43,667 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/tables2012_index/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/tables2012_index/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:43,668 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_/ -> web/pages/Fixtures0203_.html
+2025-06-10 23:02:43,668 - WARNING - Failed to process tables2012_index.html
+2025-06-10 23:02:43,815 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/facup201920_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/facup201920_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:43,816 - INFO - Processing page: https://0002n8y.wcomhost.com/website/legends_page2/ -> web/pages/legends_page2.html
+2025-06-10 23:02:43,817 - WARNING - Failed to process facup201920_.html
+2025-06-10 23:02:44,778 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/fac202122_page2/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/fac202122_page2/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:44,779 - INFO - Processing page: https://0002n8y.wcomhost.com/website/season1819_/ -> web/pages/season1819_.html
+2025-06-10 23:02:44,779 - WARNING - Failed to process fac202122_page2.html
+2025-06-10 23:02:50,361 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:50,361 - INFO - Processing page: https://0002n8y.wcomhost.com/website/facup1718_index/ -> web/pages/facup1718_index.html
+2025-06-10 23:02:50,361 - WARNING - Failed to process Fixtures0203_.html
+2025-06-10 23:02:50,363 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/cupdraws0506_page15/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/cupdraws0506_page15/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:50,364 - INFO - Processing page: https://0002n8y.wcomhost.com/website/legends_index/ -> web/pages/legends_index.html
+2025-06-10 23:02:50,364 - WARNING - Failed to process cupdraws0506_page15.html
+2025-06-10 23:02:50,367 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/cupdraws0506_page16/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/cupdraws0506_page16/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:50,367 - INFO - Processing page: https://0002n8y.wcomhost.com/website/history3/ -> web/pages/history3.html
+2025-06-10 23:02:50,368 - WARNING - Failed to process cupdraws0506_page16.html
+2025-06-10 23:02:50,549 - INFO - Processing page: https://0002n8y.wcomhost.com/website/home_/ -> web/pages/home_.html
+2025-06-10 23:02:50,590 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/legends_page2/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/legends_page2/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:50,591 - INFO - Processing page: https://0002n8y.wcomhost.com/website/season1213a_/ -> web/pages/season1213a_.html
+2025-06-10 23:02:50,591 - WARNING - Failed to process legends_page2.html
+2025-06-10 23:02:51,661 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/season1819_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/season1819_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:51,663 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page15/ -> web/pages/Fixtures0203_page15.html
+2025-06-10 23:02:51,665 - WARNING - Failed to process season1819_.html
+2025-06-10 23:02:57,019 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/facup1718_index/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/facup1718_index/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:57,019 - INFO - Processing page: https://0002n8y.wcomhost.com/website/season09-10_/ -> web/pages/season09-10_.html
+2025-06-10 23:02:57,020 - WARNING - Failed to process facup1718_index.html
+2025-06-10 23:02:57,026 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/legends_index/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/legends_index/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:57,026 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page10/ -> web/pages/Fixtures0203_page10.html
+2025-06-10 23:02:57,026 - WARNING - Failed to process legends_index.html
+2025-06-10 23:02:57,267 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/season1213a_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/season1213a_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:57,268 - INFO - Processing page: https://0002n8y.wcomhost.com/website/fixtures0708_/ -> web/pages/fixtures0708_.html
+2025-06-10 23:02:57,268 - WARNING - Failed to process season1213a_.html
+2025-06-10 23:02:57,283 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/home_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/home_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:57,283 - INFO - Processing page: https://0002n8y.wcomhost.com/website/cups1819_page15/ -> web/pages/cups1819_page15.html
+2025-06-10 23:02:57,283 - WARNING - Failed to process home_.html
+2025-06-10 23:02:58,302 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page15/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page15/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:02:58,303 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page7/ -> web/pages/Fixtures0203_page7.html
+2025-06-10 23:02:58,303 - WARNING - Failed to process Fixtures0203_page15.html
+2025-06-10 23:03:03,654 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/season09-10_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/season09-10_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:03:03,655 - INFO - Processing page: https://0002n8y.wcomhost.com/website/horbach/ -> web/pages/horbach.html
+2025-06-10 23:03:03,656 - WARNING - Failed to process season09-10_.html
+2025-06-10 23:03:03,723 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page10/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page10/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:03:03,724 - INFO - Processing page: https://0002n8y.wcomhost.com/website/fixtures0809_/ -> web/pages/fixtures0809_.html
+2025-06-10 23:03:03,724 - WARNING - Failed to process Fixtures0203_page10.html
+2025-06-10 23:03:03,922 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/fixtures0708_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/fixtures0708_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:03:03,922 - INFO - Processing page: https://0002n8y.wcomhost.com/website/sundaycup_page9/ -> web/pages/sundaycup_page9.html
+2025-06-10 23:03:03,922 - WARNING - Failed to process fixtures0708_.html
+2025-06-10 23:03:04,020 - INFO - Processing page: https://0002n8y.wcomhost.com/website/records/ -> web/pages/records.html
+2025-06-10 23:03:04,138 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/cups1819_page15/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/cups1819_page15/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:03:04,139 - INFO - Processing page: https://0002n8y.wcomhost.com/website/videos/ -> web/pages/videos.html
+2025-06-10 23:03:04,139 - WARNING - Failed to process cups1819_page15.html
+2025-06-10 23:03:04,194 - INFO - Processing page: https://0002n8y.wcomhost.com/website/season1314_/ -> web/pages/season1314_.html
+2025-06-10 23:03:04,327 - INFO - Processing page: https://0002n8y.wcomhost.com/website/facup201920_index/ -> web/pages/facup201920_index.html
+2025-06-10 23:03:04,947 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page7/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page7/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:03:04,948 - INFO - Processing page: https://0002n8y.wcomhost.com/website/history4-2_/ -> web/pages/history4-2_.html
+2025-06-10 23:03:04,948 - WARNING - Failed to process Fixtures0203_page7.html
+2025-06-10 23:03:10,420 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/fixtures0809_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/fixtures0809_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:03:10,421 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page23/ -> web/pages/Fixtures0203_page23.html
+2025-06-10 23:03:10,422 - WARNING - Failed to process fixtures0809_.html
+2025-06-10 23:03:10,586 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/sundaycup_page9/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/sundaycup_page9/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:03:10,588 - INFO - Processing page: https://0002n8y.wcomhost.com/website/latest_page2/ -> web/pages/latest_page2.html
+2025-06-10 23:03:10,588 - WARNING - Failed to process sundaycup_page9.html
+2025-06-10 23:03:10,837 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/season1314_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/season1314_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:03:10,837 - INFO - Processing page: https://0002n8y.wcomhost.com/website/playerawards_page2/ -> web/pages/playerawards_page2.html
+2025-06-10 23:03:10,837 - WARNING - Failed to process season1314_.html
+2025-06-10 23:03:10,998 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/facup201920_index/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/facup201920_index/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:03:10,998 - INFO - Processing page: https://0002n8y.wcomhost.com/website/hist0405/ -> web/pages/hist0405.html
+2025-06-10 23:03:11,000 - WARNING - Failed to process facup201920_index.html
+2025-06-10 23:03:11,186 - INFO - Processing page: https://0002n8y.wcomhost.com/website/cups1819_page16/ -> web/pages/cups1819_page16.html
+2025-06-10 23:03:11,593 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/history4-2_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/history4-2_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:03:11,593 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page9/ -> web/pages/Fixtures0203_page9.html
+2025-06-10 23:03:11,593 - WARNING - Failed to process history4-2_.html
+2025-06-10 23:03:17,076 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page23/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page23/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:03:17,077 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0304_page22/ -> web/pages/Fixtures0304_page22.html
+2025-06-10 23:03:17,077 - WARNING - Failed to process Fixtures0203_page23.html
+2025-06-10 23:03:17,355 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/latest_page2/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/latest_page2/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:03:17,355 - INFO - Processing page: https://0002n8y.wcomhost.com/website/facup201819_/ -> web/pages/facup201819_.html
+2025-06-10 23:03:17,356 - WARNING - Failed to process latest_page2.html
+2025-06-10 23:03:17,493 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/playerawards_page2/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/playerawards_page2/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:03:17,493 - INFO - Processing page: https://0002n8y.wcomhost.com/website/legends_/ -> web/pages/legends_.html
+2025-06-10 23:03:17,494 - WARNING - Failed to process playerawards_page2.html
+2025-06-10 23:03:17,867 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/cups1819_page16/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/cups1819_page16/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:03:17,868 - INFO - Processing page: https://0002n8y.wcomhost.com/website/honours/ -> web/pages/honours.html
+2025-06-10 23:03:17,868 - WARNING - Failed to process cups1819_page16.html
+2025-06-10 23:03:18,052 - INFO - Processing page: https://0002n8y.wcomhost.com/website/hist0203/ -> web/pages/hist0203.html
+2025-06-10 23:03:18,237 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page9/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page9/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:03:18,239 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page12/ -> web/pages/Fixtures0203_page12.html
+2025-06-10 23:03:18,239 - WARNING - Failed to process Fixtures0203_page9.html
+2025-06-10 23:03:18,239 - INFO - Processing page: https://0002n8y.wcomhost.com/website/appearancegrid_index/ -> web/pages/appearancegrid_index.html
+2025-06-10 23:03:23,785 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0304_page22/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0304_page22/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:03:23,786 - INFO - Processing page: https://0002n8y.wcomhost.com/website/fac202122_index/ -> web/pages/fac202122_index.html
+2025-06-10 23:03:23,786 - WARNING - Failed to process Fixtures0304_page22.html
+2025-06-10 23:03:23,997 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/facup201819_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/facup201819_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:03:23,998 - WARNING - Failed to process facup201819_.html
+2025-06-10 23:03:24,139 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/legends_/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/legends_/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:03:24,139 - WARNING - Failed to process legends_.html
+2025-06-10 23:03:24,928 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/appearancegrid_index/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/appearancegrid_index/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:03:24,929 - WARNING - Failed to process appearancegrid_index.html
+2025-06-10 23:03:25,001 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page12/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page12/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:03:25,001 - WARNING - Failed to process Fixtures0203_page12.html
+2025-06-10 23:03:30,421 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/fac202122_index/: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/fac202122_index/ (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:03:30,422 - WARNING - Failed to process fac202122_index.html
+2025-06-10 23:03:30,428 - INFO - Site clone completed
+2025-06-10 23:03:30,428 - INFO - Downloaded 8 images
+2025-06-10 23:04:02,161 - INFO - Loaded 117 pages from validation report
+2025-06-10 23:04:02,161 - INFO - Starting full site clone
+2025-06-10 23:04:02,161 - INFO - Created directory: web/pages
+2025-06-10 23:04:02,161 - INFO - Created directory: web/assets/images
+2025-06-10 23:04:02,161 - INFO - Found 117 pages to process
+2025-06-10 23:04:02,172 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page20.html -> web/pages/Fixtures0203_page20.html
+2025-06-10 23:04:02,172 - INFO - Processing page: https://0002n8y.wcomhost.com/website/season1213a_.html -> web/pages/season1213a_.html
+2025-06-10 23:04:02,173 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page12.html -> web/pages/Fixtures0203_page12.html
+2025-06-10 23:04:02,173 - INFO - Processing page: https://0002n8y.wcomhost.com/website/champs08.html -> web/pages/champs08.html
+2025-06-10 23:04:02,173 - INFO - Processing page: https://0002n8y.wcomhost.com/website/season2022_page22.html -> web/pages/season2022_page22.html
+2025-06-10 23:04:09,838 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page12.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page12.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:09,838 - INFO - Processing page: https://0002n8y.wcomhost.com/website/hist0304.html -> web/pages/hist0304.html
+2025-06-10 23:04:09,838 - WARNING - Failed to process Fixtures0203_page12.html
+2025-06-10 23:04:09,855 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/season1213a_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/season1213a_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:09,855 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/champs08.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/champs08.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:09,856 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page20.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page20.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:09,856 - INFO - Processing page: https://0002n8y.wcomhost.com/website/hist0405.html -> web/pages/hist0405.html
+2025-06-10 23:04:09,856 - WARNING - Failed to process season1213a_.html
+2025-06-10 23:04:09,856 - INFO - Processing page: https://0002n8y.wcomhost.com/website/fac1516_index.html -> web/pages/fac1516_index.html
+2025-06-10 23:04:09,856 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page11.html -> web/pages/Fixtures0203_page11.html
+2025-06-10 23:04:09,856 - WARNING - Failed to process champs08.html
+2025-06-10 23:04:09,857 - WARNING - Failed to process Fixtures0203_page20.html
+2025-06-10 23:04:10,759 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/season2022_page22.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/season2022_page22.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:10,759 - INFO - Processing page: https://0002n8y.wcomhost.com/website/homegrounds.html -> web/pages/homegrounds.html
+2025-06-10 23:04:10,759 - WARNING - Failed to process season2022_page22.html
+2025-06-10 23:04:16,651 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page11.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page11.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:16,652 - INFO - Processing page: https://0002n8y.wcomhost.com/website/FAC201617_index.html -> web/pages/FAC201617_index.html
+2025-06-10 23:04:16,652 - WARNING - Failed to process Fixtures0203_page11.html
+2025-06-10 23:04:16,726 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/hist0405.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/hist0405.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:16,726 - INFO - Processing page: https://0002n8y.wcomhost.com/website/fac202122_index.html -> web/pages/fac202122_index.html
+2025-06-10 23:04:16,726 - WARNING - Failed to process hist0405.html
+2025-06-10 23:04:16,732 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/hist0304.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/hist0304.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:16,732 - INFO - Processing page: https://0002n8y.wcomhost.com/website/records.html -> web/pages/records.html
+2025-06-10 23:04:16,732 - WARNING - Failed to process hist0304.html
+2025-06-10 23:04:16,735 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/fac1516_index.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/fac1516_index.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:16,736 - INFO - Processing page: https://0002n8y.wcomhost.com/website/clubhistory.html -> web/pages/clubhistory.html
+2025-06-10 23:04:16,736 - WARNING - Failed to process fac1516_index.html
+2025-06-10 23:04:17,739 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/homegrounds.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/homegrounds.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:17,739 - INFO - Processing page: https://0002n8y.wcomhost.com/website/season2021_.html -> web/pages/season2021_.html
+2025-06-10 23:04:17,739 - WARNING - Failed to process homegrounds.html
+2025-06-10 23:04:23,478 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/FAC201617_index.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/FAC201617_index.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:23,478 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page18.html -> web/pages/Fixtures0203_page18.html
+2025-06-10 23:04:23,478 - WARNING - Failed to process FAC201617_index.html
+2025-06-10 23:04:23,562 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/records.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/records.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:23,563 - INFO - Processing page: https://0002n8y.wcomhost.com/website/nextgame.html -> web/pages/nextgame.html
+2025-06-10 23:04:23,563 - WARNING - Failed to process records.html
+2025-06-10 23:04:23,568 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/clubhistory.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/clubhistory.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:23,568 - INFO - Processing page: https://0002n8y.wcomhost.com/website/top25.html -> web/pages/top25.html
+2025-06-10 23:04:23,568 - WARNING - Failed to process clubhistory.html
+2025-06-10 23:04:23,579 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/fac202122_index.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/fac202122_index.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:23,579 - INFO - Processing page: https://0002n8y.wcomhost.com/website/fixtures1112_.html -> web/pages/fixtures1112_.html
+2025-06-10 23:04:23,579 - WARNING - Failed to process fac202122_index.html
+2025-06-10 23:04:24,684 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/season2021_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/season2021_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:24,684 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page23.html -> web/pages/Fixtures0203_page23.html
+2025-06-10 23:04:24,684 - WARNING - Failed to process season2021_.html
+2025-06-10 23:04:30,368 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page18.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page18.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:30,369 - INFO - Processing page: https://0002n8y.wcomhost.com/website/fixtures0506_.html -> web/pages/fixtures0506_.html
+2025-06-10 23:04:30,369 - WARNING - Failed to process Fixtures0203_page18.html
+2025-06-10 23:04:30,443 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/nextgame.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/nextgame.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:30,444 - INFO - Processing page: https://0002n8y.wcomhost.com/website/fixtures0102_.html -> web/pages/fixtures0102_.html
+2025-06-10 23:04:30,444 - WARNING - Failed to process nextgame.html
+2025-06-10 23:04:30,518 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/top25.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/top25.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:30,518 - INFO - Processing page: https://0002n8y.wcomhost.com/website/home_.html -> web/pages/home_.html
+2025-06-10 23:04:30,518 - WARNING - Failed to process top25.html
+2025-06-10 23:04:30,525 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/fixtures1112_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/fixtures1112_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:30,525 - INFO - Processing page: https://0002n8y.wcomhost.com/website/hist0607.html -> web/pages/hist0607.html
+2025-06-10 23:04:30,525 - WARNING - Failed to process fixtures1112_.html
+2025-06-10 23:04:31,572 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page23.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page23.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:31,573 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page9.html -> web/pages/Fixtures0203_page9.html
+2025-06-10 23:04:31,573 - WARNING - Failed to process Fixtures0203_page23.html
+2025-06-10 23:04:37,338 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/fixtures0102_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/fixtures0102_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:37,339 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/fixtures0506_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/fixtures0506_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:37,339 - INFO - Processing page: https://0002n8y.wcomhost.com/website/cups1819_page14.html -> web/pages/cups1819_page14.html
+2025-06-10 23:04:37,339 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0304_page22.html -> web/pages/Fixtures0304_page22.html
+2025-06-10 23:04:37,339 - WARNING - Failed to process fixtures0102_.html
+2025-06-10 23:04:37,340 - WARNING - Failed to process fixtures0506_.html
+2025-06-10 23:04:37,405 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/home_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/home_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:37,406 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/hist0607.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/hist0607.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:37,407 - INFO - Processing page: https://0002n8y.wcomhost.com/website/season2022_page24.html -> web/pages/season2022_page24.html
+2025-06-10 23:04:37,407 - WARNING - Failed to process home_.html
+2025-06-10 23:04:37,407 - INFO - Processing page: https://0002n8y.wcomhost.com/website/season2022_page21.html -> web/pages/season2022_page21.html
+2025-06-10 23:04:37,408 - WARNING - Failed to process hist0607.html
+2025-06-10 23:04:38,482 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page9.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page9.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:38,482 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page15.html -> web/pages/Fixtures0203_page15.html
+2025-06-10 23:04:38,482 - WARNING - Failed to process Fixtures0203_page9.html
+2025-06-10 23:04:44,284 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/cups1819_page14.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/cups1819_page14.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:44,285 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0405_.html -> web/pages/Fixtures0405_.html
+2025-06-10 23:04:44,285 - WARNING - Failed to process cups1819_page14.html
+2025-06-10 23:04:44,329 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/season2022_page21.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/season2022_page21.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:44,330 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0304_page22.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0304_page22.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:44,330 - INFO - Processing page: https://0002n8y.wcomhost.com/website/legends_page2.html -> web/pages/legends_page2.html
+2025-06-10 23:04:44,330 - WARNING - Failed to process season2022_page21.html
+2025-06-10 23:04:44,330 - INFO - Processing page: https://0002n8y.wcomhost.com/website/players0607_page18.html -> web/pages/players0607_page18.html
+2025-06-10 23:04:44,330 - WARNING - Failed to process Fixtures0304_page22.html
+2025-06-10 23:04:44,521 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/season2022_page24.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/season2022_page24.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:44,521 - INFO - Processing page: https://0002n8y.wcomhost.com/website/fixtures0708_.html -> web/pages/fixtures0708_.html
+2025-06-10 23:04:44,521 - WARNING - Failed to process season2022_page24.html
+2025-06-10 23:04:45,449 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page15.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page15.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:45,450 - INFO - Processing page: https://0002n8y.wcomhost.com/website/cupdraws0506_page16.html -> web/pages/cupdraws0506_page16.html
+2025-06-10 23:04:45,450 - WARNING - Failed to process Fixtures0203_page15.html
+2025-06-10 23:04:51,341 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0405_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0405_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:51,341 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/players0607_page18.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/players0607_page18.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:51,342 - INFO - Processing page: https://0002n8y.wcomhost.com/website/players8_index.html -> web/pages/players8_index.html
+2025-06-10 23:04:51,342 - WARNING - Failed to process Fixtures0405_.html
+2025-06-10 23:04:51,342 - INFO - Processing page: https://0002n8y.wcomhost.com/website/season1617_.html -> web/pages/season1617_.html
+2025-06-10 23:04:51,343 - WARNING - Failed to process players0607_page18.html
+2025-06-10 23:04:51,347 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/legends_page2.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/legends_page2.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:51,348 - INFO - Processing page: https://0002n8y.wcomhost.com/website/horbach.html -> web/pages/horbach.html
+2025-06-10 23:04:51,350 - WARNING - Failed to process legends_page2.html
+2025-06-10 23:04:51,907 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/fixtures0708_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/fixtures0708_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:51,908 - INFO - Processing page: https://0002n8y.wcomhost.com/website/legends_page3.html -> web/pages/legends_page3.html
+2025-06-10 23:04:51,908 - WARNING - Failed to process fixtures0708_.html
+2025-06-10 23:04:52,421 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/cupdraws0506_page16.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/cupdraws0506_page16.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:52,421 - INFO - Processing page: https://0002n8y.wcomhost.com/website/hist0203.html -> web/pages/hist0203.html
+2025-06-10 23:04:52,422 - WARNING - Failed to process cupdraws0506_page16.html
+2025-06-10 23:04:58,333 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/horbach.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/horbach.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:58,334 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/players8_index.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/players8_index.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:58,335 - INFO - Processing page: https://0002n8y.wcomhost.com/website/legends_index.html -> web/pages/legends_index.html
+2025-06-10 23:04:58,335 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0304_.html -> web/pages/Fixtures0304_.html
+2025-06-10 23:04:58,335 - WARNING - Failed to process horbach.html
+2025-06-10 23:04:58,336 - WARNING - Failed to process players8_index.html
+2025-06-10 23:04:58,439 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/season1617_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/season1617_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:58,440 - INFO - Processing page: https://0002n8y.wcomhost.com/website/season1516_.html -> web/pages/season1516_.html
+2025-06-10 23:04:58,440 - WARNING - Failed to process season1617_.html
+2025-06-10 23:04:59,041 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/legends_page3.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/legends_page3.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:59,041 - INFO - Processing page: https://0002n8y.wcomhost.com/website/cups1819_.html -> web/pages/cups1819_.html
+2025-06-10 23:04:59,042 - WARNING - Failed to process legends_page3.html
+2025-06-10 23:04:59,415 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/hist0203.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/hist0203.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:04:59,416 - INFO - Processing page: https://0002n8y.wcomhost.com/website/appearancegrid_index.html -> web/pages/appearancegrid_index.html
+2025-06-10 23:04:59,416 - WARNING - Failed to process hist0203.html
+2025-06-10 23:05:05,296 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/legends_index.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/legends_index.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:05,297 - INFO - Processing page: https://0002n8y.wcomhost.com/website/vets08_.html -> web/pages/vets08_.html
+2025-06-10 23:05:05,297 - WARNING - Failed to process legends_index.html
+2025-06-10 23:05:05,361 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0304_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0304_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:05,362 - INFO - Processing page: https://0002n8y.wcomhost.com/website/playerawards_page2.html -> web/pages/playerawards_page2.html
+2025-06-10 23:05:05,362 - WARNING - Failed to process Fixtures0304_.html
+2025-06-10 23:05:05,419 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/season1516_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/season1516_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:05,421 - INFO - Processing page: https://0002n8y.wcomhost.com/website/facup1718_index.html -> web/pages/facup1718_index.html
+2025-06-10 23:05:05,421 - WARNING - Failed to process season1516_.html
+2025-06-10 23:05:06,022 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/cups1819_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/cups1819_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:06,023 - INFO - Processing page: https://0002n8y.wcomhost.com/website/tables2012_index.html -> web/pages/tables2012_index.html
+2025-06-10 23:05:06,023 - WARNING - Failed to process cups1819_.html
+2025-06-10 23:05:06,422 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/appearancegrid_index.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/appearancegrid_index.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:06,423 - INFO - Processing page: https://0002n8y.wcomhost.com/website/fac202122_page3.html -> web/pages/fac202122_page3.html
+2025-06-10 23:05:06,423 - WARNING - Failed to process appearancegrid_index.html
+2025-06-10 23:05:12,308 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/vets08_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/vets08_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:12,310 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page10.html -> web/pages/Fixtures0203_page10.html
+2025-06-10 23:05:12,310 - WARNING - Failed to process vets08_.html
+2025-06-10 23:05:12,463 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/facup1718_index.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/facup1718_index.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:12,464 - INFO - Processing page: https://0002n8y.wcomhost.com/website/History1.html -> web/pages/History1.html
+2025-06-10 23:05:12,464 - WARNING - Failed to process facup1718_index.html
+2025-06-10 23:05:12,614 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/playerawards_page2.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/playerawards_page2.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:12,614 - INFO - Processing page: https://0002n8y.wcomhost.com/website/season1920_.html -> web/pages/season1920_.html
+2025-06-10 23:05:12,614 - WARNING - Failed to process playerawards_page2.html
+2025-06-10 23:05:13,082 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/tables2012_index.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/tables2012_index.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:13,082 - INFO - Processing page: https://0002n8y.wcomhost.com/website/fac1415_index.html -> web/pages/fac1415_index.html
+2025-06-10 23:05:13,082 - WARNING - Failed to process tables2012_index.html
+2025-06-10 23:05:13,438 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/fac202122_page3.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/fac202122_page3.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:13,438 - INFO - Processing page: https://0002n8y.wcomhost.com/website/legends_page6.html -> web/pages/legends_page6.html
+2025-06-10 23:05:13,438 - WARNING - Failed to process fac202122_page3.html
+2025-06-10 23:05:19,352 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page10.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page10.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:19,352 - INFO - Processing page: https://0002n8y.wcomhost.com/website/cupdraws0506_page17.html -> web/pages/cupdraws0506_page17.html
+2025-06-10 23:05:19,352 - WARNING - Failed to process Fixtures0203_page10.html
+2025-06-10 23:05:19,611 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/History1.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/History1.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:19,613 - INFO - Processing page: https://0002n8y.wcomhost.com/website/season09-10_.html -> web/pages/season09-10_.html
+2025-06-10 23:05:19,613 - WARNING - Failed to process History1.html
+2025-06-10 23:05:19,877 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/season1920_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/season1920_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:19,877 - INFO - Processing page: https://0002n8y.wcomhost.com/website/history4-2_.html -> web/pages/history4-2_.html
+2025-06-10 23:05:19,877 - WARNING - Failed to process season1920_.html
+2025-06-10 23:05:20,242 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/fac1415_index.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/fac1415_index.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:20,243 - INFO - Processing page: https://0002n8y.wcomhost.com/website/honours.html -> web/pages/honours.html
+2025-06-10 23:05:20,243 - WARNING - Failed to process fac1415_index.html
+2025-06-10 23:05:20,526 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/legends_page6.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/legends_page6.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:20,526 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page17.html -> web/pages/Fixtures0203_page17.html
+2025-06-10 23:05:20,526 - WARNING - Failed to process legends_page6.html
+2025-06-10 23:05:26,599 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/season09-10_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/season09-10_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:26,600 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_.html -> web/pages/Fixtures0203_.html
+2025-06-10 23:05:26,601 - WARNING - Failed to process season09-10_.html
+2025-06-10 23:05:26,666 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/cupdraws0506_page17.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/cupdraws0506_page17.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:26,667 - INFO - Processing page: https://0002n8y.wcomhost.com/website/champs200203.html -> web/pages/champs200203.html
+2025-06-10 23:05:26,667 - WARNING - Failed to process cupdraws0506_page17.html
+2025-06-10 23:05:26,863 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/history4-2_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/history4-2_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:26,863 - INFO - Processing page: https://0002n8y.wcomhost.com/website/legends_page4.html -> web/pages/legends_page4.html
+2025-06-10 23:05:26,863 - WARNING - Failed to process history4-2_.html
+2025-06-10 23:05:27,288 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/honours.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/honours.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:27,289 - INFO - Processing page: https://0002n8y.wcomhost.com/website/history5_.html -> web/pages/history5_.html
+2025-06-10 23:05:27,289 - WARNING - Failed to process honours.html
+2025-06-10 23:05:27,645 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page17.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page17.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:27,645 - INFO - Processing page: https://0002n8y.wcomhost.com/website/cups1819_page13.html -> web/pages/cups1819_page13.html
+2025-06-10 23:05:27,645 - WARNING - Failed to process Fixtures0203_page17.html
+2025-06-10 23:05:33,645 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:33,645 - INFO - Processing page: https://0002n8y.wcomhost.com/website/facup201819_.html -> web/pages/facup201819_.html
+2025-06-10 23:05:33,645 - WARNING - Failed to process Fixtures0203_.html
+2025-06-10 23:05:33,732 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/champs200203.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/champs200203.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:33,733 - INFO - Processing page: https://0002n8y.wcomhost.com/website/season1415_.html -> web/pages/season1415_.html
+2025-06-10 23:05:33,733 - WARNING - Failed to process champs200203.html
+2025-06-10 23:05:33,930 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/legends_page4.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/legends_page4.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:33,931 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page14.html -> web/pages/Fixtures0203_page14.html
+2025-06-10 23:05:33,931 - WARNING - Failed to process legends_page4.html
+2025-06-10 23:05:34,397 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/history5_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/history5_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:34,397 - INFO - Processing page: https://0002n8y.wcomhost.com/website/season2022_page20.html -> web/pages/season2022_page20.html
+2025-06-10 23:05:34,397 - WARNING - Failed to process history5_.html
+2025-06-10 23:05:34,737 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/cups1819_page13.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/cups1819_page13.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:34,738 - INFO - Processing page: https://0002n8y.wcomhost.com/website/squad_page2.html -> web/pages/squad_page2.html
+2025-06-10 23:05:34,738 - WARNING - Failed to process cups1819_page13.html
+2025-06-10 23:05:40,643 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/facup201819_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/facup201819_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:40,643 - INFO - Processing page: https://0002n8y.wcomhost.com/website/facup201920_index.html -> web/pages/facup201920_index.html
+2025-06-10 23:05:40,643 - WARNING - Failed to process facup201819_.html
+2025-06-10 23:05:40,649 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/season1415_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/season1415_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:40,650 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page8.html -> web/pages/Fixtures0203_page8.html
+2025-06-10 23:05:40,650 - WARNING - Failed to process season1415_.html
+2025-06-10 23:05:40,907 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page14.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page14.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:40,908 - INFO - Processing page: https://0002n8y.wcomhost.com/website/legends_.html -> web/pages/legends_.html
+2025-06-10 23:05:40,909 - WARNING - Failed to process Fixtures0203_page14.html
+2025-06-10 23:05:41,429 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/season2022_page20.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/season2022_page20.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:41,429 - INFO - Processing page: https://0002n8y.wcomhost.com/website/cups1819_page15.html -> web/pages/cups1819_page15.html
+2025-06-10 23:05:41,430 - WARNING - Failed to process season2022_page20.html
+2025-06-10 23:05:41,682 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/squad_page2.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/squad_page2.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:41,683 - INFO - Processing page: https://0002n8y.wcomhost.com/website/cups1718_.html -> web/pages/cups1718_.html
+2025-06-10 23:05:41,683 - WARNING - Failed to process squad_page2.html
+2025-06-10 23:05:47,666 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page8.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page8.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:47,667 - INFO - Processing page: https://0002n8y.wcomhost.com/website/dopple_index.html -> web/pages/dopple_index.html
+2025-06-10 23:05:47,667 - WARNING - Failed to process Fixtures0203_page8.html
+2025-06-10 23:05:47,682 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/facup201920_index.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/facup201920_index.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:47,682 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page13.html -> web/pages/Fixtures0203_page13.html
+2025-06-10 23:05:47,682 - WARNING - Failed to process facup201920_index.html
+2025-06-10 23:05:47,884 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/legends_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/legends_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:47,884 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page7.html -> web/pages/Fixtures0203_page7.html
+2025-06-10 23:05:47,884 - WARNING - Failed to process legends_.html
+2025-06-10 23:05:48,439 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/cups1819_page15.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/cups1819_page15.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:48,439 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page16.html -> web/pages/Fixtures0203_page16.html
+2025-06-10 23:05:48,439 - WARNING - Failed to process cups1819_page15.html
+2025-06-10 23:05:48,588 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/cups1718_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/cups1718_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:48,588 - INFO - Processing page: https://0002n8y.wcomhost.com/website/hist0506.html -> web/pages/hist0506.html
+2025-06-10 23:05:48,588 - WARNING - Failed to process cups1718_.html
+2025-06-10 23:05:54,518 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page13.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page13.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:54,519 - INFO - Processing page: https://0002n8y.wcomhost.com/website/tables2012_page10.html -> web/pages/tables2012_page10.html
+2025-06-10 23:05:54,519 - WARNING - Failed to process Fixtures0203_page13.html
+2025-06-10 23:05:54,685 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page7.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page7.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:54,686 - INFO - Processing page: https://0002n8y.wcomhost.com/website/players0607_index.html -> web/pages/players0607_index.html
+2025-06-10 23:05:54,686 - WARNING - Failed to process Fixtures0203_page7.html
+2025-06-10 23:05:54,728 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/dopple_index.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/dopple_index.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:54,729 - INFO - Processing page: https://0002n8y.wcomhost.com/website/fac202122_page2.html -> web/pages/fac202122_page2.html
+2025-06-10 23:05:54,729 - WARNING - Failed to process dopple_index.html
+2025-06-10 23:05:55,202 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page16.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page16.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:55,202 - INFO - Processing page: https://0002n8y.wcomhost.com/website/cups1617_.html -> web/pages/cups1617_.html
+2025-06-10 23:05:55,202 - WARNING - Failed to process Fixtures0203_page16.html
+2025-06-10 23:05:55,430 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/hist0506.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/hist0506.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:05:55,431 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page19.html -> web/pages/Fixtures0203_page19.html
+2025-06-10 23:05:55,431 - WARNING - Failed to process hist0506.html
+2025-06-10 23:06:01,389 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/tables2012_page10.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/tables2012_page10.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:01,389 - INFO - Processing page: https://0002n8y.wcomhost.com/website/details.html -> web/pages/details.html
+2025-06-10 23:06:01,389 - WARNING - Failed to process tables2012_page10.html
+2025-06-10 23:06:01,598 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/players0607_index.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/players0607_index.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:01,599 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/fac202122_page2.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/fac202122_page2.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:01,599 - INFO - Processing page: https://0002n8y.wcomhost.com/website/cupdraws0506_page18.html -> web/pages/cupdraws0506_page18.html
+2025-06-10 23:06:01,600 - WARNING - Failed to process players0607_index.html
+2025-06-10 23:06:01,600 - INFO - Processing page: https://0002n8y.wcomhost.com/website/season1314_.html -> web/pages/season1314_.html
+2025-06-10 23:06:01,602 - WARNING - Failed to process fac202122_page2.html
+2025-06-10 23:06:02,162 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/cups1617_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/cups1617_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:02,163 - INFO - Processing page: https://0002n8y.wcomhost.com/website/fac1112_index.html -> web/pages/fac1112_index.html
+2025-06-10 23:06:02,163 - WARNING - Failed to process cups1617_.html
+2025-06-10 23:06:02,366 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page19.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page19.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:02,366 - INFO - Processing page: https://0002n8y.wcomhost.com/website/newnewplayers_index.html -> web/pages/newnewplayers_index.html
+2025-06-10 23:06:02,367 - WARNING - Failed to process Fixtures0203_page19.html
+2025-06-10 23:06:08,327 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/details.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/details.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:08,329 - INFO - Processing page: https://0002n8y.wcomhost.com/website/History2_.html -> web/pages/History2_.html
+2025-06-10 23:06:08,330 - WARNING - Failed to process details.html
+2025-06-10 23:06:08,448 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/season1314_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/season1314_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:08,448 - INFO - Processing page: https://0002n8y.wcomhost.com/website/season1819_.html -> web/pages/season1819_.html
+2025-06-10 23:06:08,449 - WARNING - Failed to process season1314_.html
+2025-06-10 23:06:08,643 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/cupdraws0506_page18.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/cupdraws0506_page18.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:08,644 - INFO - Processing page: https://0002n8y.wcomhost.com/website/table_index.html -> web/pages/table_index.html
+2025-06-10 23:06:08,644 - WARNING - Failed to process cupdraws0506_page18.html
+2025-06-10 23:06:09,055 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/fac1112_index.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/fac1112_index.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:09,056 - INFO - Processing page: https://0002n8y.wcomhost.com/website/sundaycup_index.html -> web/pages/sundaycup_index.html
+2025-06-10 23:06:09,056 - WARNING - Failed to process fac1112_index.html
+2025-06-10 23:06:09,239 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/newnewplayers_index.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/newnewplayers_index.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:09,240 - INFO - Processing page: https://0002n8y.wcomhost.com/website/history3.html -> web/pages/history3.html
+2025-06-10 23:06:09,240 - WARNING - Failed to process newnewplayers_index.html
+2025-06-10 23:06:15,162 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/History2_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/History2_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:15,164 - INFO - Processing page: https://0002n8y.wcomhost.com/website/website_home_.html -> web/pages/website_home_.html
+2025-06-10 23:06:15,164 - WARNING - Failed to process History2_.html
+2025-06-10 23:06:15,281 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/season1819_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/season1819_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:15,281 - INFO - Processing page: https://0002n8y.wcomhost.com/website/cupdraws0506_page2.html -> web/pages/cupdraws0506_page2.html
+2025-06-10 23:06:15,282 - WARNING - Failed to process season1819_.html
+2025-06-10 23:06:15,526 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/table_index.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/table_index.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:15,527 - INFO - Processing page: https://0002n8y.wcomhost.com/website/season2022_.html -> web/pages/season2022_.html
+2025-06-10 23:06:15,527 - WARNING - Failed to process table_index.html
+2025-06-10 23:06:15,935 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/sundaycup_index.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/sundaycup_index.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:15,936 - INFO - Processing page: https://0002n8y.wcomhost.com/website/cupdraws0506_page15.html -> web/pages/cupdraws0506_page15.html
+2025-06-10 23:06:15,936 - WARNING - Failed to process sundaycup_index.html
+2025-06-10 23:06:16,119 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/history3.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/history3.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:16,120 - INFO - Processing page: https://0002n8y.wcomhost.com/website/sundaycup_page19.html -> web/pages/sundaycup_page19.html
+2025-06-10 23:06:16,120 - WARNING - Failed to process history3.html
+2025-06-10 23:06:22,029 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/website_home_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/website_home_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:22,030 - INFO - Processing page: https://0002n8y.wcomhost.com/website/latest_page2.html -> web/pages/latest_page2.html
+2025-06-10 23:06:22,030 - WARNING - Failed to process website_home_.html
+2025-06-10 23:06:22,105 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/cupdraws0506_page2.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/cupdraws0506_page2.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:22,105 - INFO - Processing page: https://0002n8y.wcomhost.com/website/SWay2002.html -> web/pages/SWay2002.html
+2025-06-10 23:06:22,106 - WARNING - Failed to process cupdraws0506_page2.html
+2025-06-10 23:06:22,653 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/season2022_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/season2022_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:22,654 - INFO - Processing page: https://0002n8y.wcomhost.com/website/videos.html -> web/pages/videos.html
+2025-06-10 23:06:22,654 - WARNING - Failed to process season2022_.html
+2025-06-10 23:06:22,836 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/cupdraws0506_page15.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/cupdraws0506_page15.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:22,836 - INFO - Processing page: https://0002n8y.wcomhost.com/website/cups1819_page16.html -> web/pages/cups1819_page16.html
+2025-06-10 23:06:22,837 - WARNING - Failed to process cupdraws0506_page15.html
+2025-06-10 23:06:23,044 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/sundaycup_page19.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/sundaycup_page19.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:23,045 - INFO - Processing page: https://0002n8y.wcomhost.com/website/facup201920_.html -> web/pages/facup201920_.html
+2025-06-10 23:06:23,046 - WARNING - Failed to process sundaycup_page19.html
+2025-06-10 23:06:28,814 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/latest_page2.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/latest_page2.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:28,815 - INFO - Processing page: https://0002n8y.wcomhost.com/website/fixtures1011_.html -> web/pages/fixtures1011_.html
+2025-06-10 23:06:28,815 - WARNING - Failed to process latest_page2.html
+2025-06-10 23:06:28,878 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/SWay2002.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/SWay2002.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:28,878 - INFO - Processing page: https://0002n8y.wcomhost.com/website/season1718_.html -> web/pages/season1718_.html
+2025-06-10 23:06:28,878 - WARNING - Failed to process SWay2002.html
+2025-06-10 23:06:29,380 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/videos.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/videos.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:29,380 - INFO - Processing page: https://0002n8y.wcomhost.com/website/facup201819_index.html -> web/pages/facup201819_index.html
+2025-06-10 23:06:29,381 - WARNING - Failed to process videos.html
+2025-06-10 23:06:29,680 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/cups1819_page16.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/cups1819_page16.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:29,681 - INFO - Processing page: https://0002n8y.wcomhost.com/website/everyplayer_index.html -> web/pages/everyplayer_index.html
+2025-06-10 23:06:29,681 - WARNING - Failed to process cups1819_page16.html
+2025-06-10 23:06:29,819 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/facup201920_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/facup201920_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:29,819 - INFO - Processing page: https://0002n8y.wcomhost.com/website/legends_page5.html -> web/pages/legends_page5.html
+2025-06-10 23:06:29,819 - WARNING - Failed to process facup201920_.html
+2025-06-10 23:06:35,475 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/fixtures1011_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/fixtures1011_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:35,476 - INFO - Processing page: https://0002n8y.wcomhost.com/website/SW07.html -> web/pages/SW07.html
+2025-06-10 23:06:35,476 - WARNING - Failed to process fixtures1011_.html
+2025-06-10 23:06:35,530 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/season1718_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/season1718_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:35,531 - INFO - Processing page: https://0002n8y.wcomhost.com/website/fixtures0607_.html -> web/pages/fixtures0607_.html
+2025-06-10 23:06:35,531 - WARNING - Failed to process season1718_.html
+2025-06-10 23:06:36,046 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/facup201819_index.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/facup201819_index.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:36,046 - INFO - Processing page: https://0002n8y.wcomhost.com/website/Fixtures0203_page21.html -> web/pages/Fixtures0203_page21.html
+2025-06-10 23:06:36,046 - WARNING - Failed to process facup201819_index.html
+2025-06-10 23:06:36,311 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/everyplayer_index.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/everyplayer_index.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:36,311 - INFO - Processing page: https://0002n8y.wcomhost.com/website/sundaycup_page9.html -> web/pages/sundaycup_page9.html
+2025-06-10 23:06:36,312 - WARNING - Failed to process everyplayer_index.html
+2025-06-10 23:06:36,568 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/legends_page5.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/legends_page5.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:36,568 - INFO - Processing page: https://0002n8y.wcomhost.com/website/yearbyyear.html -> web/pages/yearbyyear.html
+2025-06-10 23:06:36,569 - WARNING - Failed to process legends_page5.html
+2025-06-10 23:06:42,117 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/SW07.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/SW07.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:42,118 - INFO - Processing page: https://0002n8y.wcomhost.com/website/cups1516_.html -> web/pages/cups1516_.html
+2025-06-10 23:06:42,118 - WARNING - Failed to process SW07.html
+2025-06-10 23:06:42,459 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/fixtures0607_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/fixtures0607_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:42,460 - INFO - Processing page: https://0002n8y.wcomhost.com/website/fixtures0809_.html -> web/pages/fixtures0809_.html
+2025-06-10 23:06:42,462 - WARNING - Failed to process fixtures0607_.html
+2025-06-10 23:06:42,697 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/Fixtures0203_page21.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/Fixtures0203_page21.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:42,698 - WARNING - Failed to process Fixtures0203_page21.html
+2025-06-10 23:06:42,979 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/sundaycup_page9.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/sundaycup_page9.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:42,980 - WARNING - Failed to process sundaycup_page9.html
+2025-06-10 23:06:43,228 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/yearbyyear.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/yearbyyear.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:43,229 - WARNING - Failed to process yearbyyear.html
+2025-06-10 23:06:48,785 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/cups1516_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/cups1516_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:48,786 - WARNING - Failed to process cups1516_.html
+2025-06-10 23:06:49,328 - ERROR - Error downloading https://0002n8y.wcomhost.com/website/fixtures0809_.html: HTTPSConnectionPool(host='0002n8y.wcomhost.com', port=443): Max retries exceeded with url: /website/fixtures0809_.html (Caused by ResponseError('too many 404 error responses'))
+2025-06-10 23:06:49,329 - WARNING - Failed to process fixtures0809_.html
+2025-06-10 23:06:49,333 - INFO - Site clone completed
+2025-06-10 23:06:49,333 - INFO - Downloaded 0 images
+2025-06-10 23:14:34,090 - INFO - Loaded 117 pages from validation report
+2025-06-10 23:14:34,090 - INFO - Created directory: web/pages
+2025-06-10 23:14:34,090 - INFO - Created directory: web/assets/images
+2025-06-10 23:14:34,090 - INFO - Starting full site clone
+2025-06-10 23:14:34,090 - INFO - Found 117 pages to process
+2025-06-10 23:14:55,811 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/latest_page2.html: HTTP 404
+2025-06-10 23:14:56,053 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/season1516_.html: HTTP 404
+2025-06-10 23:14:56,053 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/Fixtures0203_page21.html: HTTP 404
+2025-06-10 23:14:56,053 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/season1718_.html: HTTP 404
+2025-06-10 23:14:56,053 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/vets08_.html: HTTP 404
+2025-06-10 23:14:56,053 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/dopple_index.html: HTTP 404
+2025-06-10 23:14:56,058 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/Fixtures0304_.html: HTTP 404
+2025-06-10 23:14:56,058 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/homegrounds.html: HTTP 404
+2025-06-10 23:14:56,058 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/FAC201617_index.html: HTTP 404
+2025-06-10 23:14:56,059 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/facup201920_index.html: HTTP 404
+2025-06-10 23:14:56,059 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/fixtures0102_.html: HTTP 404
+2025-06-10 23:14:56,059 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/cupdraws0506_page15.html: HTTP 404
+2025-06-10 23:14:56,059 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/horbach.html: HTTP 404
+2025-06-10 23:14:56,059 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/hist0405.html: HTTP 404
+2025-06-10 23:14:56,059 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/Fixtures0203_page14.html: HTTP 404
+2025-06-10 23:14:56,060 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/season2021_.html: HTTP 404
+2025-06-10 23:14:56,060 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/sundaycup_page9.html: HTTP 404
+2025-06-10 23:14:56,060 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/fixtures0809_.html: HTTP 404
+2025-06-10 23:14:56,060 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/champs200203.html: HTTP 404
+2025-06-10 23:14:56,060 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/season1819_.html: HTTP 404
+2025-06-10 23:14:56,060 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/Fixtures0203_page17.html: HTTP 404
+2025-06-10 23:14:56,060 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/fixtures0607_.html: HTTP 404
+2025-06-10 23:14:56,060 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/home_.html: HTTP 404
+2025-06-10 23:14:56,079 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/everyplayer_index.html: HTTP 404
+2025-06-10 23:14:56,082 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/Fixtures0203_page18.html: HTTP 404
+2025-06-10 23:14:56,083 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/Fixtures0203_page23.html: HTTP 404
+2025-06-10 23:14:56,083 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/season09-10_.html: HTTP 404
+2025-06-10 23:14:56,083 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/History1.html: HTTP 404
+2025-06-10 23:14:56,083 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/Fixtures0203_page19.html: HTTP 404
+2025-06-10 23:14:56,083 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/tables2012_index.html: HTTP 404
+2025-06-10 23:14:56,083 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/legends_page5.html: HTTP 404
+2025-06-10 23:14:56,083 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/season2022_page22.html: HTTP 404
+2025-06-10 23:14:56,083 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/fac1415_index.html: HTTP 404
+2025-06-10 23:14:56,089 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/cups1516_.html: HTTP 404
+2025-06-10 23:14:56,091 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/hist0506.html: HTTP 404
+2025-06-10 23:14:56,092 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/hist0203.html: HTTP 404
+2025-06-10 23:14:56,093 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/fixtures0708_.html: HTTP 404
+2025-06-10 23:14:56,095 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/cups1819_.html: HTTP 404
+2025-06-10 23:14:56,096 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/website_home_.html: HTTP 404
+2025-06-10 23:14:56,097 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/hist0607.html: HTTP 404
+2025-06-10 23:14:56,097 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/cups1819_page13.html: HTTP 404
+2025-06-10 23:14:56,098 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/facup201920_.html: HTTP 404
+2025-06-10 23:14:56,098 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/facup201819_.html: HTTP 404
+2025-06-10 23:14:56,099 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/players0607_index.html: HTTP 404
+2025-06-10 23:14:56,099 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/cups1718_.html: HTTP 404
+2025-06-10 23:14:56,099 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/season2022_page21.html: HTTP 404
+2025-06-10 23:14:56,099 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/cupdraws0506_page18.html: HTTP 404
+2025-06-10 23:14:56,099 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/cupdraws0506_page16.html: HTTP 404
+2025-06-10 23:14:56,101 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/Fixtures0203_page7.html: HTTP 404
+2025-06-10 23:14:56,102 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/History2_.html: HTTP 404
+2025-06-10 23:14:56,102 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/Fixtures0203_page20.html: HTTP 404
+2025-06-10 23:14:56,102 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/newnewplayers_index.html: HTTP 404
+2025-06-10 23:14:56,103 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/fixtures1112_.html: HTTP 404
+2025-06-10 23:14:56,103 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/honours.html: HTTP 404
+2025-06-10 23:14:56,103 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/legends_.html: HTTP 404
+2025-06-10 23:14:56,104 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/cups1819_page16.html: HTTP 404
+2025-06-10 23:14:56,104 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/hist0304.html: HTTP 404
+2025-06-10 23:14:56,104 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/Fixtures0203_page16.html: HTTP 404
+2025-06-10 23:14:56,104 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/Fixtures0405_.html: HTTP 404
+2025-06-10 23:14:56,105 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/history3.html: HTTP 404
+2025-06-10 23:14:56,105 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/squad_page2.html: HTTP 404
+2025-06-10 23:14:56,105 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/cups1819_page14.html: HTTP 404
+2025-06-10 23:14:56,106 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/yearbyyear.html: HTTP 404
+2025-06-10 23:14:56,107 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/SWay2002.html: HTTP 404
+2025-06-10 23:14:56,107 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/Fixtures0203_.html: HTTP 404
+2025-06-10 23:14:56,107 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/nextgame.html: HTTP 404
+2025-06-10 23:14:56,108 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/cups1819_page15.html: HTTP 404
+2025-06-10 23:14:56,108 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/players8_index.html: HTTP 404
+2025-06-10 23:14:56,108 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/Fixtures0203_page11.html: HTTP 404
+2025-06-10 23:14:56,109 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/legends_page4.html: HTTP 404
+2025-06-10 23:14:56,110 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/Fixtures0203_page15.html: HTTP 404
+2025-06-10 23:14:56,110 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/cups1617_.html: HTTP 404
+2025-06-10 23:14:56,110 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/appearancegrid_index.html: HTTP 404
+2025-06-10 23:14:56,110 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/Fixtures0203_page12.html: HTTP 404
+2025-06-10 23:14:56,110 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/fac202122_page2.html: HTTP 404
+2025-06-10 23:14:56,110 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/SW07.html: HTTP 404
+2025-06-10 23:14:56,111 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/season2022_page20.html: HTTP 404
+2025-06-10 23:14:56,111 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/fixtures1011_.html: HTTP 404
+2025-06-10 23:14:56,112 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/history4-2_.html: HTTP 404
+2025-06-10 23:14:56,113 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/Fixtures0304_page22.html: HTTP 404
+2025-06-10 23:14:56,113 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/cupdraws0506_page2.html: HTTP 404
+2025-06-10 23:14:56,113 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/details.html: HTTP 404
+2025-06-10 23:14:56,113 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/playerawards_page2.html: HTTP 404
+2025-06-10 23:14:56,113 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/table_index.html: HTTP 404
+2025-06-10 23:14:56,114 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/facup1718_index.html: HTTP 404
+2025-06-10 23:14:56,114 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/records.html: HTTP 404
+2025-06-10 23:14:56,115 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/legends_page2.html: HTTP 404
+2025-06-10 23:14:56,115 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/top25.html: HTTP 404
+2025-06-10 23:14:56,116 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/clubhistory.html: HTTP 404
+2025-06-10 23:14:56,116 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/Fixtures0203_page9.html: HTTP 404
+2025-06-10 23:14:56,122 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/fac1516_index.html: HTTP 404
+2025-06-10 23:14:56,133 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/season2022_page24.html: HTTP 404
+2025-06-10 23:14:56,134 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/Fixtures0203_page13.html: HTTP 404
+2025-06-10 23:14:56,134 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/tables2012_page10.html: HTTP 404
+2025-06-10 23:14:56,136 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/legends_page3.html: HTTP 404
+2025-06-10 23:14:56,136 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/fixtures0506_.html: HTTP 404
+2025-06-10 23:14:56,136 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/sundaycup_index.html: HTTP 404
+2025-06-10 23:14:56,136 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/fac202122_index.html: HTTP 404
+2025-06-10 23:14:56,142 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/fac202122_page3.html: HTTP 404
+2025-06-10 23:14:56,142 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/videos.html: HTTP 404
+2025-06-10 23:14:56,142 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/legends_index.html: HTTP 404
+2025-06-10 23:14:56,144 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/season1213a_.html: HTTP 404
+2025-06-10 23:14:56,144 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/champs08.html: HTTP 404
+2025-06-10 23:14:56,322 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/season1415_.html: HTTP 404
+2025-06-10 23:14:56,322 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/season1617_.html: HTTP 404
+2025-06-10 23:14:56,322 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/season1314_.html: HTTP 404
+2025-06-10 23:14:56,322 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/Fixtures0203_page8.html: HTTP 404
+2025-06-10 23:14:56,325 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/fac1112_index.html: HTTP 404
+2025-06-10 23:14:56,340 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/sundaycup_page19.html: HTTP 404
+2025-06-10 23:14:56,341 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/Fixtures0203_page10.html: HTTP 404
+2025-06-10 23:14:56,341 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/history5_.html: HTTP 404
+2025-06-10 23:14:56,341 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/cupdraws0506_page17.html: HTTP 404
+2025-06-10 23:14:56,341 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/season1920_.html: HTTP 404
+2025-06-10 23:14:56,341 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/facup201819_index.html: HTTP 404
+2025-06-10 23:14:56,341 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/legends_page6.html: HTTP 404
+2025-06-10 23:14:56,341 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/season2022_.html: HTTP 404
+2025-06-10 23:14:56,376 - ERROR - Failed to load https://0002n8y.wcomhost.com/website/players0607_page18.html: HTTP 404
+2025-06-10 23:14:59,669 - INFO - Site clone completed
+2025-06-10 23:14:59,669 - INFO - Downloaded 0 images

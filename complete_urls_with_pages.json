@@ -1,0 +1,354 @@
+{
+  "timestamp": "2025-06-10T23:18:22.286Z",
+  "summary": {
+    "totalUrls": 19,
+    "sectionsProcessed": 19,
+    "totalUrlsTested": 76
+  },
+  "sections": {
+    "honours": {
+      "baseUrl": "https://0002n8y.wcomhost.com/website/honours/",
+      "basePage": {
+        "url": "https://0002n8y.wcomhost.com/website/honours/",
+        "title": "honours only",
+        "contentLength": 16,
+        "working": true
+      },
+      "pages": [],
+      "totalPages": 1
+    },
+    "videos": {
+      "baseUrl": "https://0002n8y.wcomhost.com/website/videos/",
+      "basePage": {
+        "url": "https://0002n8y.wcomhost.com/website/videos/",
+        "title": "video",
+        "contentLength": 0,
+        "working": true
+      },
+      "pages": [],
+      "totalPages": 1
+    },
+    "nextgame": {
+      "baseUrl": "https://0002n8y.wcomhost.com/website/nextgame/",
+      "basePage": {
+        "url": "https://0002n8y.wcomhost.com/website/nextgame/",
+        "title": "nextgame",
+        "contentLength": 107,
+        "working": true
+      },
+      "pages": [],
+      "totalPages": 1
+    },
+    "details": {
+      "baseUrl": "https://0002n8y.wcomhost.com/website/details/",
+      "basePage": {
+        "url": "https://0002n8y.wcomhost.com/website/details/",
+        "title": "Club Details",
+        "contentLength": 543,
+        "working": true
+      },
+      "pages": [],
+      "totalPages": 1
+    },
+    "records": {
+      "baseUrl": "https://0002n8y.wcomhost.com/website/records/",
+      "basePage": {
+        "url": "https://0002n8y.wcomhost.com/website/records/",
+        "title": "records",
+        "contentLength": 0,
+        "working": true
+      },
+      "pages": [],
+      "totalPages": 1
+    },
+    "SW07": {
+      "baseUrl": "https://0002n8y.wcomhost.com/website/SW07/",
+      "basePage": {
+        "url": "https://0002n8y.wcomhost.com/website/SW07/",
+        "title": "SW07",
+        "contentLength": 0,
+        "working": true
+      },
+      "pages": [],
+      "totalPages": 1
+    },
+    "yearbyyear": {
+      "baseUrl": "https://0002n8y.wcomhost.com/website/yearbyyear/",
+      "basePage": {
+        "url": "https://0002n8y.wcomhost.com/website/yearbyyear/",
+        "title": "yearbyyear",
+        "contentLength": 0,
+        "working": true
+      },
+      "pages": [],
+      "totalPages": 1
+    },
+    "SWay2002": {
+      "baseUrl": "https://0002n8y.wcomhost.com/website/SWay2002/",
+      "basePage": {
+        "url": "https://0002n8y.wcomhost.com/website/SWay2002/",
+        "title": "SWay2002",
+        "contentLength": 0,
+        "working": true
+      },
+      "pages": [],
+      "totalPages": 1
+    },
+    "hist0304": {
+      "baseUrl": "https://0002n8y.wcomhost.com/website/hist0304/",
+      "basePage": {
+        "url": "https://0002n8y.wcomhost.com/website/hist0304/",
+        "title": "hist0304",
+        "contentLength": 0,
+        "working": true
+      },
+      "pages": [],
+      "totalPages": 1
+    },
+    "hist0607": {
+      "baseUrl": "https://0002n8y.wcomhost.com/website/hist0607/",
+      "basePage": {
+        "url": "https://0002n8y.wcomhost.com/website/hist0607/",
+        "title": "hist0607",
+        "contentLength": 0,
+        "working": true
+      },
+      "pages": [],
+      "totalPages": 1
+    },
+    "horbach": {
+      "baseUrl": "https://0002n8y.wcomhost.com/website/horbach/",
+      "basePage": {
+        "url": "https://0002n8y.wcomhost.com/website/horbach/",
+        "title": "horbach",
+        "contentLength": 0,
+        "working": true
+      },
+      "pages": [],
+      "totalPages": 1
+    },
+    "champs200203": {
+      "baseUrl": "https://0002n8y.wcomhost.com/website/champs200203/",
+      "basePage": {
+        "url": "https://0002n8y.wcomhost.com/website/champs200203/",
+        "title": "champs200203",
+        "contentLength": 0,
+        "working": true
+      },
+      "pages": [],
+      "totalPages": 1
+    },
+    "hist0405": {
+      "baseUrl": "https://0002n8y.wcomhost.com/website/hist0405/",
+      "basePage": {
+        "url": "https://0002n8y.wcomhost.com/website/hist0405/",
+        "title": "hist0405",
+        "contentLength": 9,
+        "working": true
+      },
+      "pages": [],
+      "totalPages": 1
+    },
+    "top25": {
+      "baseUrl": "https://0002n8y.wcomhost.com/website/top25/",
+      "basePage": {
+        "url": "https://0002n8y.wcomhost.com/website/top25/",
+        "title": "top25",
+        "contentLength": 0,
+        "working": true
+      },
+      "pages": [],
+      "totalPages": 1
+    },
+    "hist0203": {
+      "baseUrl": "https://0002n8y.wcomhost.com/website/hist0203/",
+      "basePage": {
+        "url": "https://0002n8y.wcomhost.com/website/hist0203/",
+        "title": "hist0203",
+        "contentLength": 0,
+        "working": true
+      },
+      "pages": [],
+      "totalPages": 1
+    },
+    "champs08": {
+      "baseUrl": "https://0002n8y.wcomhost.com/website/champs08/",
+      "basePage": {
+        "url": "https://0002n8y.wcomhost.com/website/champs08/",
+        "title": "champs08",
+        "contentLength": 0,
+        "working": true
+      },
+      "pages": [],
+      "totalPages": 1
+    },
+    "hist0506": {
+      "baseUrl": "https://0002n8y.wcomhost.com/website/hist0506/",
+      "basePage": {
+        "url": "https://0002n8y.wcomhost.com/website/hist0506/",
+        "title": "his0506",
+        "contentLength": 9,
+        "working": true
+      },
+      "pages": [],
+      "totalPages": 1
+    },
+    "homegrounds": {
+      "baseUrl": "https://0002n8y.wcomhost.com/website/homegrounds/",
+      "basePage": {
+        "url": "https://0002n8y.wcomhost.com/website/homegrounds/",
+        "title": "grounds",
+        "contentLength": 0,
+        "working": true
+      },
+      "pages": [],
+      "totalPages": 1
+    },
+    "history3": {
+      "baseUrl": "https://0002n8y.wcomhost.com/website/history3/",
+      "basePage": {
+        "url": "https://0002n8y.wcomhost.com/website/history3/",
+        "title": "history3",
+        "contentLength": 0,
+        "working": true
+      },
+      "pages": [],
+      "totalPages": 1
+    }
+  },
+  "allUrls": [
+    {
+      "sectionName": "honours",
+      "url": "https://0002n8y.wcomhost.com/website/honours/",
+      "pageNumber": 0,
+      "title": "honours only",
+      "contentLength": 16
+    },
+    {
+      "sectionName": "videos",
+      "url": "https://0002n8y.wcomhost.com/website/videos/",
+      "pageNumber": 0,
+      "title": "video",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "nextgame",
+      "url": "https://0002n8y.wcomhost.com/website/nextgame/",
+      "pageNumber": 0,
+      "title": "nextgame",
+      "contentLength": 107
+    },
+    {
+      "sectionName": "details",
+      "url": "https://0002n8y.wcomhost.com/website/details/",
+      "pageNumber": 0,
+      "title": "Club Details",
+      "contentLength": 543
+    },
+    {
+      "sectionName": "records",
+      "url": "https://0002n8y.wcomhost.com/website/records/",
+      "pageNumber": 0,
+      "title": "records",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "SW07",
+      "url": "https://0002n8y.wcomhost.com/website/SW07/",
+      "pageNumber": 0,
+      "title": "SW07",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "yearbyyear",
+      "url": "https://0002n8y.wcomhost.com/website/yearbyyear/",
+      "pageNumber": 0,
+      "title": "yearbyyear",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "SWay2002",
+      "url": "https://0002n8y.wcomhost.com/website/SWay2002/",
+      "pageNumber": 0,
+      "title": "SWay2002",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "hist0304",
+      "url": "https://0002n8y.wcomhost.com/website/hist0304/",
+      "pageNumber": 0,
+      "title": "hist0304",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "hist0607",
+      "url": "https://0002n8y.wcomhost.com/website/hist0607/",
+      "pageNumber": 0,
+      "title": "hist0607",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "horbach",
+      "url": "https://0002n8y.wcomhost.com/website/horbach/",
+      "pageNumber": 0,
+      "title": "horbach",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "champs200203",
+      "url": "https://0002n8y.wcomhost.com/website/champs200203/",
+      "pageNumber": 0,
+      "title": "champs200203",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "hist0405",
+      "url": "https://0002n8y.wcomhost.com/website/hist0405/",
+      "pageNumber": 0,
+      "title": "hist0405",
+      "contentLength": 9
+    },
+    {
+      "sectionName": "top25",
+      "url": "https://0002n8y.wcomhost.com/website/top25/",
+      "pageNumber": 0,
+      "title": "top25",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "hist0203",
+      "url": "https://0002n8y.wcomhost.com/website/hist0203/",
+      "pageNumber": 0,
+      "title": "hist0203",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "champs08",
+      "url": "https://0002n8y.wcomhost.com/website/champs08/",
+      "pageNumber": 0,
+      "title": "champs08",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "hist0506",
+      "url": "https://0002n8y.wcomhost.com/website/hist0506/",
+      "pageNumber": 0,
+      "title": "his0506",
+      "contentLength": 9
+    },
+    {
+      "sectionName": "homegrounds",
+      "url": "https://0002n8y.wcomhost.com/website/homegrounds/",
+      "pageNumber": 0,
+      "title": "grounds",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "history3",
+      "url": "https://0002n8y.wcomhost.com/website/history3/",
+      "pageNumber": 0,
+      "title": "history3",
+      "contentLength": 0
+    }
+  ]
+}

@@ -1,0 +1,853 @@
+{
+  "timestamp": "2025-06-10T23:22:18.556Z",
+  "summary": {
+    "sectionsWithPages": 5,
+    "totalPagesFound": 57,
+    "sectionsProcessed": 5
+  },
+  "sections": [
+    {
+      "sectionName": "History1",
+      "baseUrl": "https://0002n8y.wcomhost.com/website/History1/",
+      "pages": [
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History1/",
+          "pageNumber": 0,
+          "title": "History1",
+          "contentLength": 388
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History1/page2.html",
+          "pageNumber": 2,
+          "title": "History1",
+          "contentLength": 32
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History1/page3.html",
+          "pageNumber": 3,
+          "title": "History1",
+          "contentLength": 4647
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History1/page4.html",
+          "pageNumber": 4,
+          "title": "History1",
+          "contentLength": 9
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History1/page5.html",
+          "pageNumber": 5,
+          "title": "History1",
+          "contentLength": 9
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History1/page6.html",
+          "pageNumber": 6,
+          "title": "History1",
+          "contentLength": 9
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History1/page7.html",
+          "pageNumber": 7,
+          "title": "History1",
+          "contentLength": 9
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History1/page8.html",
+          "pageNumber": 8,
+          "title": "History1",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History1/page9.html",
+          "pageNumber": 9,
+          "title": "History1",
+          "contentLength": 9
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History1/page10.html",
+          "pageNumber": 10,
+          "title": "History1",
+          "contentLength": 9
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History1/page11.html",
+          "pageNumber": 11,
+          "title": "History1",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History1/page12.html",
+          "pageNumber": 12,
+          "title": "History1",
+          "contentLength": 9
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History1/page13.html",
+          "pageNumber": 13,
+          "title": "History1",
+          "contentLength": 9
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History1/page14.html",
+          "pageNumber": 14,
+          "title": "History1",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History1/page15.html",
+          "pageNumber": 15,
+          "title": "History1",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History1/page16.html",
+          "pageNumber": 16,
+          "title": "History1",
+          "contentLength": 0
+        }
+      ],
+      "totalPages": 16
+    },
+    {
+      "sectionName": "History2",
+      "baseUrl": "https://0002n8y.wcomhost.com/website/History2/",
+      "pages": [
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History2/",
+          "pageNumber": 0,
+          "title": "History2",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History2/page2.html",
+          "pageNumber": 2,
+          "title": "History2",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History2/page3.html",
+          "pageNumber": 3,
+          "title": "History2",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History2/page4.html",
+          "pageNumber": 4,
+          "title": "History2",
+          "contentLength": 30
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History2/page5.html",
+          "pageNumber": 5,
+          "title": "History2",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History2/page6.html",
+          "pageNumber": 6,
+          "title": "History2",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History2/page7.html",
+          "pageNumber": 7,
+          "title": "History2",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History2/page8.html",
+          "pageNumber": 8,
+          "title": "History2",
+          "contentLength": 9
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History2/page9.html",
+          "pageNumber": 9,
+          "title": "History2",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History2/page10.html",
+          "pageNumber": 10,
+          "title": "History2",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History2/page11.html",
+          "pageNumber": 11,
+          "title": "History2",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History2/page12.html",
+          "pageNumber": 12,
+          "title": "History2",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History2/page13.html",
+          "pageNumber": 13,
+          "title": "History2",
+          "contentLength": 270
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History2/page14.html",
+          "pageNumber": 14,
+          "title": "History2",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/History2/page15.html",
+          "pageNumber": 15,
+          "title": "History2",
+          "contentLength": 0
+        }
+      ],
+      "totalPages": 15
+    },
+    {
+      "sectionName": "everyplayer",
+      "baseUrl": "https://0002n8y.wcomhost.com/website/everyplayer/",
+      "pages": [
+        {
+          "url": "https://0002n8y.wcomhost.com/website/everyplayer/",
+          "pageNumber": 0,
+          "title": "everyplayer",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/everyplayer/page2.html",
+          "pageNumber": 2,
+          "title": "everyplayer",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/everyplayer/page3.html",
+          "pageNumber": 3,
+          "title": "everyplayer",
+          "contentLength": 0
+        }
+      ],
+      "totalPages": 3
+    },
+    {
+      "sectionName": "playerawards",
+      "baseUrl": "https://0002n8y.wcomhost.com/website/playerawards/",
+      "pages": [
+        {
+          "url": "https://0002n8y.wcomhost.com/website/playerawards/",
+          "pageNumber": 0,
+          "title": "player awards",
+          "contentLength": 128
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/playerawards/page2.html",
+          "pageNumber": 2,
+          "title": "player awards",
+          "contentLength": 18
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/playerawards/page3.html",
+          "pageNumber": 3,
+          "title": "player awards",
+          "contentLength": 18
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/playerawards/page4.html",
+          "pageNumber": 4,
+          "title": "player awards",
+          "contentLength": 19
+        }
+      ],
+      "totalPages": 4
+    },
+    {
+      "sectionName": "season2022",
+      "baseUrl": "https://0002n8y.wcomhost.com/website/season2022/",
+      "pages": [
+        {
+          "url": "https://0002n8y.wcomhost.com/website/season2022/",
+          "pageNumber": 0,
+          "title": "season2022",
+          "contentLength": 33
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/season2022/page2.html",
+          "pageNumber": 2,
+          "title": "season2022",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/season2022/page3.html",
+          "pageNumber": 3,
+          "title": "season2022",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/season2022/page4.html",
+          "pageNumber": 4,
+          "title": "season2022",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/season2022/page5.html",
+          "pageNumber": 5,
+          "title": "season2022",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/season2022/page6.html",
+          "pageNumber": 6,
+          "title": "season2022",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/season2022/page7.html",
+          "pageNumber": 7,
+          "title": "season2022",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/season2022/page8.html",
+          "pageNumber": 8,
+          "title": "season2022",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/season2022/page9.html",
+          "pageNumber": 9,
+          "title": "season2022",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/season2022/page10.html",
+          "pageNumber": 10,
+          "title": "season2022",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/season2022/page11.html",
+          "pageNumber": 11,
+          "title": "season2022",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/season2022/page12.html",
+          "pageNumber": 12,
+          "title": "season2022",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/season2022/page13.html",
+          "pageNumber": 13,
+          "title": "season2022",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/season2022/page14.html",
+          "pageNumber": 14,
+          "title": "season2022",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/season2022/page15.html",
+          "pageNumber": 15,
+          "title": "season2022",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/season2022/page16.html",
+          "pageNumber": 16,
+          "title": "season2022",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/season2022/page17.html",
+          "pageNumber": 17,
+          "title": "season2022",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/season2022/page18.html",
+          "pageNumber": 18,
+          "title": "season2022",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/season2022/page19.html",
+          "pageNumber": 19,
+          "title": "season2022",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/season2022/page20.html",
+          "pageNumber": 20,
+          "title": "season2022",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/season2022/page21.html",
+          "pageNumber": 21,
+          "title": "season2022",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/season2022/page22.html",
+          "pageNumber": 22,
+          "title": "season2022",
+          "contentLength": 0
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/season2022/page23.html",
+          "pageNumber": 23,
+          "title": "season2022",
+          "contentLength": 16
+        },
+        {
+          "url": "https://0002n8y.wcomhost.com/website/season2022/page24.html",
+          "pageNumber": 24,
+          "title": "season2022",
+          "contentLength": 0
+        }
+      ],
+      "totalPages": 24
+    }
+  ],
+  "allUrls": [
+    {
+      "sectionName": "History1",
+      "url": "https://0002n8y.wcomhost.com/website/History1/",
+      "pageNumber": 0,
+      "title": "History1",
+      "contentLength": 388
+    },
+    {
+      "sectionName": "History1",
+      "url": "https://0002n8y.wcomhost.com/website/History1/page2.html",
+      "pageNumber": 2,
+      "title": "History1",
+      "contentLength": 32
+    },
+    {
+      "sectionName": "History1",
+      "url": "https://0002n8y.wcomhost.com/website/History1/page3.html",
+      "pageNumber": 3,
+      "title": "History1",
+      "contentLength": 4647
+    },
+    {
+      "sectionName": "History1",
+      "url": "https://0002n8y.wcomhost.com/website/History1/page4.html",
+      "pageNumber": 4,
+      "title": "History1",
+      "contentLength": 9
+    },
+    {
+      "sectionName": "History1",
+      "url": "https://0002n8y.wcomhost.com/website/History1/page5.html",
+      "pageNumber": 5,
+      "title": "History1",
+      "contentLength": 9
+    },
+    {
+      "sectionName": "History1",
+      "url": "https://0002n8y.wcomhost.com/website/History1/page6.html",
+      "pageNumber": 6,
+      "title": "History1",
+      "contentLength": 9
+    },
+    {
+      "sectionName": "History1",
+      "url": "https://0002n8y.wcomhost.com/website/History1/page7.html",
+      "pageNumber": 7,
+      "title": "History1",
+      "contentLength": 9
+    },
+    {
+      "sectionName": "History1",
+      "url": "https://0002n8y.wcomhost.com/website/History1/page8.html",
+      "pageNumber": 8,
+      "title": "History1",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "History1",
+      "url": "https://0002n8y.wcomhost.com/website/History1/page9.html",
+      "pageNumber": 9,
+      "title": "History1",
+      "contentLength": 9
+    },
+    {
+      "sectionName": "History1",
+      "url": "https://0002n8y.wcomhost.com/website/History1/page10.html",
+      "pageNumber": 10,
+      "title": "History1",
+      "contentLength": 9
+    },
+    {
+      "sectionName": "History1",
+      "url": "https://0002n8y.wcomhost.com/website/History1/page11.html",
+      "pageNumber": 11,
+      "title": "History1",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "History1",
+      "url": "https://0002n8y.wcomhost.com/website/History1/page12.html",
+      "pageNumber": 12,
+      "title": "History1",
+      "contentLength": 9
+    },
+    {
+      "sectionName": "History1",
+      "url": "https://0002n8y.wcomhost.com/website/History1/page13.html",
+      "pageNumber": 13,
+      "title": "History1",
+      "contentLength": 9
+    },
+    {
+      "sectionName": "History1",
+      "url": "https://0002n8y.wcomhost.com/website/History1/page14.html",
+      "pageNumber": 14,
+      "title": "History1",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "History1",
+      "url": "https://0002n8y.wcomhost.com/website/History1/page15.html",
+      "pageNumber": 15,
+      "title": "History1",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "History1",
+      "url": "https://0002n8y.wcomhost.com/website/History1/page16.html",
+      "pageNumber": 16,
+      "title": "History1",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "History2",
+      "url": "https://0002n8y.wcomhost.com/website/History2/",
+      "pageNumber": 0,
+      "title": "History2",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "History2",
+      "url": "https://0002n8y.wcomhost.com/website/History2/page2.html",
+      "pageNumber": 2,
+      "title": "History2",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "History2",
+      "url": "https://0002n8y.wcomhost.com/website/History2/page3.html",
+      "pageNumber": 3,
+      "title": "History2",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "History2",
+      "url": "https://0002n8y.wcomhost.com/website/History2/page4.html",
+      "pageNumber": 4,
+      "title": "History2",
+      "contentLength": 30
+    },
+    {
+      "sectionName": "History2",
+      "url": "https://0002n8y.wcomhost.com/website/History2/page5.html",
+      "pageNumber": 5,
+      "title": "History2",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "History2",
+      "url": "https://0002n8y.wcomhost.com/website/History2/page6.html",
+      "pageNumber": 6,
+      "title": "History2",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "History2",
+      "url": "https://0002n8y.wcomhost.com/website/History2/page7.html",
+      "pageNumber": 7,
+      "title": "History2",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "History2",
+      "url": "https://0002n8y.wcomhost.com/website/History2/page8.html",
+      "pageNumber": 8,
+      "title": "History2",
+      "contentLength": 9
+    },
+    {
+      "sectionName": "History2",
+      "url": "https://0002n8y.wcomhost.com/website/History2/page9.html",
+      "pageNumber": 9,
+      "title": "History2",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "History2",
+      "url": "https://0002n8y.wcomhost.com/website/History2/page10.html",
+      "pageNumber": 10,
+      "title": "History2",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "History2",
+      "url": "https://0002n8y.wcomhost.com/website/History2/page11.html",
+      "pageNumber": 11,
+      "title": "History2",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "History2",
+      "url": "https://0002n8y.wcomhost.com/website/History2/page12.html",
+      "pageNumber": 12,
+      "title": "History2",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "History2",
+      "url": "https://0002n8y.wcomhost.com/website/History2/page13.html",
+      "pageNumber": 13,
+      "title": "History2",
+      "contentLength": 270
+    },
+    {
+      "sectionName": "History2",
+      "url": "https://0002n8y.wcomhost.com/website/History2/page14.html",
+      "pageNumber": 14,
+      "title": "History2",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "History2",
+      "url": "https://0002n8y.wcomhost.com/website/History2/page15.html",
+      "pageNumber": 15,
+      "title": "History2",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "everyplayer",
+      "url": "https://0002n8y.wcomhost.com/website/everyplayer/",
+      "pageNumber": 0,
+      "title": "everyplayer",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "everyplayer",
+      "url": "https://0002n8y.wcomhost.com/website/everyplayer/page2.html",
+      "pageNumber": 2,
+      "title": "everyplayer",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "everyplayer",
+      "url": "https://0002n8y.wcomhost.com/website/everyplayer/page3.html",
+      "pageNumber": 3,
+      "title": "everyplayer",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "playerawards",
+      "url": "https://0002n8y.wcomhost.com/website/playerawards/",
+      "pageNumber": 0,
+      "title": "player awards",
+      "contentLength": 128
+    },
+    {
+      "sectionName": "playerawards",
+      "url": "https://0002n8y.wcomhost.com/website/playerawards/page2.html",
+      "pageNumber": 2,
+      "title": "player awards",
+      "contentLength": 18
+    },
+    {
+      "sectionName": "playerawards",
+      "url": "https://0002n8y.wcomhost.com/website/playerawards/page3.html",
+      "pageNumber": 3,
+      "title": "player awards",
+      "contentLength": 18
+    },
+    {
+      "sectionName": "playerawards",
+      "url": "https://0002n8y.wcomhost.com/website/playerawards/page4.html",
+      "pageNumber": 4,
+      "title": "player awards",
+      "contentLength": 19
+    },
+    {
+      "sectionName": "season2022",
+      "url": "https://0002n8y.wcomhost.com/website/season2022/",
+      "pageNumber": 0,
+      "title": "season2022",
+      "contentLength": 33
+    },
+    {
+      "sectionName": "season2022",
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page2.html",
+      "pageNumber": 2,
+      "title": "season2022",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "season2022",
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page3.html",
+      "pageNumber": 3,
+      "title": "season2022",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "season2022",
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page4.html",
+      "pageNumber": 4,
+      "title": "season2022",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "season2022",
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page5.html",
+      "pageNumber": 5,
+      "title": "season2022",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "season2022",
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page6.html",
+      "pageNumber": 6,
+      "title": "season2022",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "season2022",
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page7.html",
+      "pageNumber": 7,
+      "title": "season2022",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "season2022",
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page8.html",
+      "pageNumber": 8,
+      "title": "season2022",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "season2022",
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page9.html",
+      "pageNumber": 9,
+      "title": "season2022",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "season2022",
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page10.html",
+      "pageNumber": 10,
+      "title": "season2022",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "season2022",
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page11.html",
+      "pageNumber": 11,
+      "title": "season2022",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "season2022",
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page12.html",
+      "pageNumber": 12,
+      "title": "season2022",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "season2022",
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page13.html",
+      "pageNumber": 13,
+      "title": "season2022",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "season2022",
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page14.html",
+      "pageNumber": 14,
+      "title": "season2022",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "season2022",
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page15.html",
+      "pageNumber": 15,
+      "title": "season2022",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "season2022",
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page16.html",
+      "pageNumber": 16,
+      "title": "season2022",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "season2022",
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page17.html",
+      "pageNumber": 17,
+      "title": "season2022",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "season2022",
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page18.html",
+      "pageNumber": 18,
+      "title": "season2022",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "season2022",
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page19.html",
+      "pageNumber": 19,
+      "title": "season2022",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "season2022",
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page20.html",
+      "pageNumber": 20,
+      "title": "season2022",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "season2022",
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page21.html",
+      "pageNumber": 21,
+      "title": "season2022",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "season2022",
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page22.html",
+      "pageNumber": 22,
+      "title": "season2022",
+      "contentLength": 0
+    },
+    {
+      "sectionName": "season2022",
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page23.html",
+      "pageNumber": 23,
+      "title": "season2022",
+      "contentLength": 16
+    },
+    {
+      "sectionName": "season2022",
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page24.html",
+      "pageNumber": 24,
+      "title": "season2022",
+      "contentLength": 0
+    }
+  ]
+}

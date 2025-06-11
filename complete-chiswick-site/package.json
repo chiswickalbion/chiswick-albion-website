@@ -1,0 +1,12 @@
+{
+  "name": "chiswick-site-comparison",
+  "version": "1.0.0",
+  "description": "Tools to compare and fix the Chiswick Albion website",
+  "scripts": {
+    "compare": "node compare_sites.js",
+    "download": "node download_images.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  }
+} 

@@ -1,0 +1,565 @@
+{
+  "timestamp": "2025-06-11T01:56:11.920Z",
+  "stats": {
+    "totalTested": 1428,
+    "working": 91,
+    "failed": 775,
+    "startTime": 1749598302345,
+    "currentStrategy": "Alternative Patterns",
+    "elapsedTime": 8669576
+  },
+  "workingUrls": [
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2021/",
+      "title": "season2021",
+      "contentLength": 4300,
+      "timestamp": "2025-06-10T23:32:49.580Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2021/page2.html",
+      "title": "season2021",
+      "contentLength": 2252,
+      "timestamp": "2025-06-10T23:32:50.303Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2021/page3.html",
+      "title": "season2021",
+      "contentLength": 2252,
+      "timestamp": "2025-06-10T23:32:51.187Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2021/page4.html",
+      "title": "season2021",
+      "contentLength": 2252,
+      "timestamp": "2025-06-10T23:32:51.910Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2021/page5.html",
+      "title": "season2021",
+      "contentLength": 2252,
+      "timestamp": "2025-06-10T23:32:52.616Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2021/page6.html",
+      "title": "season2021",
+      "contentLength": 2252,
+      "timestamp": "2025-06-10T23:32:53.332Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2021/page7.html",
+      "title": "season2021",
+      "contentLength": 2252,
+      "timestamp": "2025-06-10T23:32:54.053Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2021/page8.html",
+      "title": "season2021",
+      "contentLength": 2252,
+      "timestamp": "2025-06-10T23:32:54.776Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2021/page9.html",
+      "title": "season2021",
+      "contentLength": 2142,
+      "timestamp": "2025-06-10T23:32:55.503Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2021/page10.html",
+      "title": "season2021",
+      "contentLength": 2162,
+      "timestamp": "2025-06-10T23:32:56.235Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2021/page11.html",
+      "title": "season2021",
+      "contentLength": 2098,
+      "timestamp": "2025-06-10T23:32:56.952Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2021/page12.html",
+      "title": "season2021",
+      "contentLength": 2006,
+      "timestamp": "2025-06-10T23:32:57.670Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2021/page13.html",
+      "title": "season2021",
+      "contentLength": 2006,
+      "timestamp": "2025-06-10T23:32:58.397Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2021/page14.html",
+      "title": "season2021",
+      "contentLength": 2006,
+      "timestamp": "2025-06-10T23:32:59.130Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2021/page15.html",
+      "title": "season2021",
+      "contentLength": 2098,
+      "timestamp": "2025-06-10T23:32:59.951Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2021/page16.html",
+      "title": "season2021",
+      "contentLength": 2006,
+      "timestamp": "2025-06-10T23:33:00.698Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2021/page17.html",
+      "title": "season2021",
+      "contentLength": 2006,
+      "timestamp": "2025-06-10T23:33:01.420Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2021/page18.html",
+      "title": "season2021",
+      "contentLength": 2006,
+      "timestamp": "2025-06-10T23:33:02.161Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2021/page19.html",
+      "title": "season2021",
+      "contentLength": 2006,
+      "timestamp": "2025-06-10T23:33:02.896Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2022/",
+      "title": "season2022",
+      "contentLength": 5747,
+      "timestamp": "2025-06-10T23:33:08.674Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page2.html",
+      "title": "season2022",
+      "contentLength": 2251,
+      "timestamp": "2025-06-10T23:33:09.394Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page3.html",
+      "title": "season2022",
+      "contentLength": 2251,
+      "timestamp": "2025-06-10T23:33:10.145Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page4.html",
+      "title": "season2022",
+      "contentLength": 2251,
+      "timestamp": "2025-06-10T23:33:10.876Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page5.html",
+      "title": "season2022",
+      "contentLength": 2250,
+      "timestamp": "2025-06-10T23:33:11.603Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page6.html",
+      "title": "season2022",
+      "contentLength": 2252,
+      "timestamp": "2025-06-10T23:33:12.341Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page7.html",
+      "title": "season2022",
+      "contentLength": 2160,
+      "timestamp": "2025-06-10T23:33:13.065Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page8.html",
+      "title": "season2022",
+      "contentLength": 2160,
+      "timestamp": "2025-06-10T23:33:13.793Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page9.html",
+      "title": "season2022",
+      "contentLength": 2161,
+      "timestamp": "2025-06-10T23:33:14.513Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page10.html",
+      "title": "season2022",
+      "contentLength": 2162,
+      "timestamp": "2025-06-10T23:33:15.237Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page11.html",
+      "title": "season2022",
+      "contentLength": 2162,
+      "timestamp": "2025-06-10T23:33:15.976Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page12.html",
+      "title": "season2022",
+      "contentLength": 2162,
+      "timestamp": "2025-06-10T23:33:16.710Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page13.html",
+      "title": "season2022",
+      "contentLength": 2162,
+      "timestamp": "2025-06-10T23:33:17.441Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page14.html",
+      "title": "season2022",
+      "contentLength": 2162,
+      "timestamp": "2025-06-10T23:33:18.169Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page15.html",
+      "title": "season2022",
+      "contentLength": 2162,
+      "timestamp": "2025-06-10T23:33:18.887Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page16.html",
+      "title": "season2022",
+      "contentLength": 2162,
+      "timestamp": "2025-06-10T23:33:19.608Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page17.html",
+      "title": "season2022",
+      "contentLength": 2162,
+      "timestamp": "2025-06-10T23:33:20.337Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page18.html",
+      "title": "season2022",
+      "contentLength": 2162,
+      "timestamp": "2025-06-10T23:33:21.067Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page19.html",
+      "title": "season2022",
+      "contentLength": 2164,
+      "timestamp": "2025-06-10T23:33:21.797Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page20.html",
+      "title": "season2022",
+      "contentLength": 2164,
+      "timestamp": "2025-06-10T23:33:22.519Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page21.html",
+      "title": "season2022",
+      "contentLength": 2164,
+      "timestamp": "2025-06-10T23:33:23.248Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page22.html",
+      "title": "season2022",
+      "contentLength": 2164,
+      "timestamp": "2025-06-10T23:33:23.975Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page23.html",
+      "title": "season2022",
+      "contentLength": 4236,
+      "timestamp": "2025-06-10T23:33:24.698Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/season2022/page24.html",
+      "title": "season2022",
+      "contentLength": 2164,
+      "timestamp": "2025-06-10T23:33:25.413Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History1/",
+      "title": "History1",
+      "contentLength": 4524,
+      "timestamp": "2025-06-10T23:33:35.519Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History1/page2.html",
+      "title": "History1",
+      "contentLength": 7622,
+      "timestamp": "2025-06-10T23:33:36.238Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History1/page3.html",
+      "title": "History1",
+      "contentLength": 11727,
+      "timestamp": "2025-06-10T23:33:36.984Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History1/page4.html",
+      "title": "History1",
+      "contentLength": 4073,
+      "timestamp": "2025-06-10T23:33:37.715Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History1/page5.html",
+      "title": "History1",
+      "contentLength": 3865,
+      "timestamp": "2025-06-10T23:33:38.438Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History1/page6.html",
+      "title": "History1",
+      "contentLength": 3593,
+      "timestamp": "2025-06-10T23:33:39.161Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History1/page7.html",
+      "title": "History1",
+      "contentLength": 2458,
+      "timestamp": "2025-06-10T23:33:40.080Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History1/page8.html",
+      "title": "History1",
+      "contentLength": 2840,
+      "timestamp": "2025-06-10T23:33:40.791Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History1/page9.html",
+      "title": "History1",
+      "contentLength": 4014,
+      "timestamp": "2025-06-10T23:33:41.526Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History1/page10.html",
+      "title": "History1",
+      "contentLength": 3994,
+      "timestamp": "2025-06-10T23:33:42.260Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History1/page11.html",
+      "title": "History1",
+      "contentLength": 3319,
+      "timestamp": "2025-06-10T23:33:42.993Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History1/page12.html",
+      "title": "History1",
+      "contentLength": 3550,
+      "timestamp": "2025-06-10T23:33:43.714Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History1/page13.html",
+      "title": "History1",
+      "contentLength": 4046,
+      "timestamp": "2025-06-10T23:33:44.448Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History1/page14.html",
+      "title": "History1",
+      "contentLength": 2667,
+      "timestamp": "2025-06-10T23:33:45.184Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History1/page15.html",
+      "title": "History1",
+      "contentLength": 2891,
+      "timestamp": "2025-06-10T23:33:45.925Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History1/page16.html",
+      "title": "History1",
+      "contentLength": 2282,
+      "timestamp": "2025-06-10T23:33:46.645Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/history1/",
+      "title": "History1",
+      "contentLength": 3641,
+      "timestamp": "2025-06-10T23:33:51.049Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History2/",
+      "title": "History2",
+      "contentLength": 2895,
+      "timestamp": "2025-06-10T23:33:56.886Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History2/page2.html",
+      "title": "History2",
+      "contentLength": 1339,
+      "timestamp": "2025-06-10T23:33:57.611Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History2/page3.html",
+      "title": "History2",
+      "contentLength": 2981,
+      "timestamp": "2025-06-10T23:33:58.330Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History2/page4.html",
+      "title": "History2",
+      "contentLength": 4102,
+      "timestamp": "2025-06-10T23:33:59.048Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History2/page5.html",
+      "title": "History2",
+      "contentLength": 2696,
+      "timestamp": "2025-06-10T23:33:59.774Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History2/page6.html",
+      "title": "History2",
+      "contentLength": 3331,
+      "timestamp": "2025-06-10T23:34:00.503Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History2/page7.html",
+      "title": "History2",
+      "contentLength": 3660,
+      "timestamp": "2025-06-10T23:34:01.225Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History2/page8.html",
+      "title": "History2",
+      "contentLength": 3635,
+      "timestamp": "2025-06-10T23:34:01.952Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History2/page9.html",
+      "title": "History2",
+      "contentLength": 3076,
+      "timestamp": "2025-06-10T23:34:02.680Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History2/page10.html",
+      "title": "History2",
+      "contentLength": 2817,
+      "timestamp": "2025-06-10T23:34:03.401Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History2/page11.html",
+      "title": "History2",
+      "contentLength": 3022,
+      "timestamp": "2025-06-10T23:34:04.126Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History2/page12.html",
+      "title": "History2",
+      "contentLength": 2376,
+      "timestamp": "2025-06-10T23:34:04.859Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History2/page13.html",
+      "title": "History2",
+      "contentLength": 4982,
+      "timestamp": "2025-06-10T23:34:05.593Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History2/page14.html",
+      "title": "History2",
+      "contentLength": 2891,
+      "timestamp": "2025-06-10T23:34:06.313Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History2/page15.html",
+      "title": "History2",
+      "contentLength": 3436,
+      "timestamp": "2025-06-10T23:34:07.033Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/history3/",
+      "title": "history3",
+      "contentLength": 1441,
+      "timestamp": "2025-06-10T23:34:14.803Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/History4/",
+      "title": "History4",
+      "contentLength": 1071,
+      "timestamp": "2025-06-10T23:34:20.804Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/history5/",
+      "title": "history5",
+      "contentLength": 1365,
+      "timestamp": "2025-06-10T23:34:28.624Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/everyplayer/",
+      "title": "everyplayer",
+      "contentLength": 19243,
+      "timestamp": "2025-06-10T23:35:19.108Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/everyplayer/page2.html",
+      "title": "everyplayer",
+      "contentLength": 11001,
+      "timestamp": "2025-06-10T23:35:19.826Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/everyplayer/page3.html",
+      "title": "everyplayer",
+      "contentLength": 11174,
+      "timestamp": "2025-06-10T23:35:20.565Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/squad/",
+      "title": "Squad News-Grape2",
+      "contentLength": 3467,
+      "timestamp": "2025-06-10T23:35:25.653Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/squad/page2.html",
+      "title": "Squad News-Grape2",
+      "contentLength": 3704,
+      "timestamp": "2025-06-10T23:35:26.387Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/honours/",
+      "title": "honours only",
+      "contentLength": 2564,
+      "timestamp": "2025-06-10T23:35:34.998Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/records/",
+      "title": "records",
+      "contentLength": 1288,
+      "timestamp": "2025-06-10T23:35:42.152Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/videos/",
+      "title": "video",
+      "contentLength": 3349,
+      "timestamp": "2025-06-10T23:35:52.294Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/details/",
+      "title": "Club Details",
+      "contentLength": 6159,
+      "timestamp": "2025-06-10T23:36:03.251Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/playerawards/",
+      "title": "player awards",
+      "contentLength": 3683,
+      "timestamp": "2025-06-10T23:39:38.555Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/playerawards/page2.html",
+      "title": "player awards",
+      "contentLength": 2533,
+      "timestamp": "2025-06-10T23:39:39.284Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/playerawards/page3.html",
+      "title": "player awards",
+      "contentLength": 2546,
+      "timestamp": "2025-06-10T23:39:40.016Z"
+    },
+    {
+      "url": "https://0002n8y.wcomhost.com/website/playerawards/page4.html",
+      "title": "player awards",
+      "contentLength": 2532,
+      "timestamp": "2025-06-10T23:39:40.747Z"
+    }
+  ],
+  "totalUrls": 91,
+  "failedUrls": 775,
+  "summary": {
+    "totalFound": 91,
+    "sections": 15
+  }
+}
